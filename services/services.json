@@ -1,0 +1,7567 @@
+[{
+  "_id": {
+    "$oid": "5f1e1aa11db02e19450d577d"
+  },
+  "title": {
+    "uz": "Yer usti basseynini o'rnatish",
+    "ru": "Установка наземного бассейна",
+    "eng": "Above Ground Swimming Pool Installation"
+  },
+  "imageUrl": "images/services/1601452229707-above-ground-pool-ideas-13.jpg",
+  "keywords": [
+    "jvjhgdfdgfdg",
+    "jvjhgd",
+    "jvjhgdfdg",
+    "jvjhgdfdgfdgdg",
+    "jvjhgdfdg",
+    "asd"
+  ],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa11db02e19450d577e"
+  },
+  "title": {
+    "uz": "Uy jihozlarini o'rnatish",
+    "ru": "Установка бытовых приборов",
+    "eng": "Appliance Installation"
+  },
+  "imageUrl": "images/services/1601452329112-unnamed.jpg",
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa11db02e19450d577f"
+  },
+  "title": {
+    "uz": "Uy jihozlarini ta'mirlash va texnik xizmat ko'rsatish",
+    "ru": "Ремонт и обслуживание бытовых приборов",
+    "eng": "Appliance Repair or Maintenance"
+  },
+  "imageUrl": "images/services/1601452376706-unnamed-(1).jpg",
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa11db02e19450d5780"
+  },
+  "title": {
+    "uz": "Arxitektura-loyihaviy xizmatlar",
+    "ru": "Архитектурные услуги",
+    "eng": "Architectural Services"
+  },
+  "imageUrl": "images/services/1601452025281-why-study-architecture_0.jpg",
+  "keywords": [
+    "arxitektor",
+    "архитектор"
+  ],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa11db02e19450d5781"
+  },
+  "title": {
+    "uz": "Sun'iy gazon o'rnatish xizmati",
+    "ru": "Установка искусственного газона",
+    "eng": "Artificial Turf Installation"
+  },
+  "imageUrl": "images/services/1601452411153-Synthetic-Turf-Artificial-Turf-Grass-Installation.jpg",
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa11db02e19450d5782"
+  },
+  "title": {
+    "uz": "Asbestni olib tashlash",
+    "ru": "Удаление асбеста",
+    "eng": "Asbestos Removal"
+  },
+  "imageUrl": "images/services/1601452446931-bcf6ac81e86f3ba2_800x800ar.jpg",
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa11db02e19450d5783"
+  },
+  "title": {
+    "uz": "Asfaltlash",
+    "ru": "Асфальтирование",
+    "eng": "Asphalt Installation"
+  },
+  "imageUrl": "images/services/1601452135935-th-paving.jpg",
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa11db02e19450d5784"
+  },
+  "title": {
+    "uz": "Asfaltni ta'mirlash",
+    "ru": "Ремонт и обслуживание асфальта",
+    "eng": "Asphalt Repair and Maintenance"
+  },
+  "imageUrl": "images/services/1601452490096-pothole-repair-vancouver.jpg",
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa11db02e19450d5785"
+  },
+  "title": {
+    "uz": "Uyni ta'mirlash va bezash ishlari",
+    "ru": "Ремонт и Отделка домов",
+    "eng": "Basement Finishing or Remodeling"
+  },
+  "imageUrl": "images/services/1601452537907-1405374206943.jpeg",
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa11db02e19450d5786"
+  },
+  "title": {
+    "uz": "Hammomni ta'mirlash",
+    "ru": "Ремонт ванной комнаты",
+    "eng": "Bathroom Remodel"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa11db02e19450d5787"
+  },
+  "title": {
+    "uz": "Hasharotlarni qirish (Hidsiz)",
+    "ru": "Унитожение от клопов без запаха",
+    "eng": "Bed Bug Extermination"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa11db02e19450d5788"
+  },
+  "title": {
+    "uz": "Tosh va g'ishtni qayta ta'mirlash",
+    "ru": "Ремонт кирпича или камня",
+    "eng": "Brick or Stone Repair"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa11db02e19450d5789"
+  },
+  "title": {
+    "uz": "Oshxona jihozlarini o'rnatish",
+    "ru": "Установка кухонной гарнитуры",
+    "eng": "Cabinet Installation"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa11db02e19450d578a"
+  },
+  "title": {
+    "uz": "Oshxona jihozlarini bo'yoqlash",
+    "ru": "Краска кухонной гарнитуры",
+    "eng": "Cabinet Painting"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa11db02e19450d578b"
+  },
+  "title": {
+    "uz": "Oshxona jihozlarini bezash va qayta ta'mirlash",
+    "ru": "Отделка и ремонт кухонной гарнитуры",
+    "eng": "Cabinet Refinishing and Repair"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa11db02e19450d578c"
+  },
+  "title": {
+    "uz": "Oshxona jihozlari",
+    "ru": "Кухонные гарнитуры",
+    "eng": "Cabinetry"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa11db02e19450d578d"
+  },
+  "title": {
+    "uz": "Gilam tozalash xizmati",
+    "ru": "Чистка ковров",
+    "eng": "Carpet Cleaning"
+  },
+  "imageUrl": "images/services/1601549394584-person-using-an-at-home-carpet-cleaner.jpg",
+  "keywords": [
+    "гилам",
+    "sholcha"
+  ],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa11db02e19450d578e"
+  },
+  "title": {
+    "uz": "Gilamlarni o'rnatish xizmati",
+    "ru": "Установка ковров",
+    "eng": "Carpet Installation"
+  },
+  "imageUrl": "images/services/1601461636676-carpetinstallation.jpg",
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa11db02e19450d578f"
+  },
+  "title": {
+    "uz": "Gilamlarni olib tashlash",
+    "ru": "Удаление ковра",
+    "eng": "Carpet Removal"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa11db02e19450d5790"
+  },
+  "title": {
+    "uz": "Gilamlarni qisman o'zgartirish va ta'mirlash xizmati",
+    "ru": "Ремонт ковров или частичная замена",
+    "eng": "Carpet Repair or Partial Replacement"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa11db02e19450d5791"
+  },
+  "title": {
+    "uz": "Markaziy konditsionerni ta'mirlash va o'rnatish",
+    "ru": "Установка или замена центрального кондиционера",
+    "eng": "Central Air Conditioning Installation or Replacement"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa11db02e19450d5792"
+  },
+  "title": {
+    "uz": "Markaziy konditsionerni qayta ta'mirlash va texnik xizmat ko'rsatish",
+    "ru": "Ремонт или техническое обслуживание центрального кондиционера",
+    "eng": "Central Air Conditioning Repair or Maintenance"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa11db02e19450d5793"
+  },
+  "title": {
+    "uz": "O'chirgich paneli yoki sug'urta qutisini o'rnatish",
+    "ru": "Установка панели выключателя или блока предохранителей",
+    "eng": "Circuit Breaker Panel or Fuse Box Installation"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa11db02e19450d5794"
+  },
+  "title": {
+    "uz": "O'chirgich paneli yoki sug'urta qutisini ta'mirlash",
+    "ru": "Ремонт панели выключателя или блока предохранителей",
+    "eng": "Circuit Breaker Panel or Fuse Box Repair"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa11db02e19450d5795"
+  },
+  "title": {
+    "uz": "Javon yig'ish va ta'mirlash",
+    "ru": "Сборка и переделка шкафа",
+    "eng": "Closet Remodel"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa11db02e19450d5796"
+  },
+  "title": {
+    "uz": "Raf va javonlar o'rnatish",
+    "ru": "Установка шкафов и стеллажей",
+    "eng": "Closet and Shelving System Installation"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa11db02e19450d5797"
+  },
+  "title": {
+    "uz": "Tijoriy gilamlarni tozalash xizmati",
+    "ru": "Коммерческая стирка ковров",
+    "eng": "Commercial Carpet Cleaning"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa11db02e19450d5798"
+  },
+  "title": {
+    "uz": "Tozalash xizmati",
+    "ru": "Коммерческая уборка",
+    "eng": "Commercial Cleaning"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa11db02e19450d5799"
+  },
+  "title": {
+    "uz": "Beton o'rnatish xizmati",
+    "ru": "Установка бетона",
+    "eng": "Concrete Installation"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa11db02e19450d579a"
+  },
+  "title": {
+    "uz": "Betonni olib tashlash",
+    "ru": "Удаление бетона",
+    "eng": "Concrete Removal"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa11db02e19450d579b"
+  },
+  "title": {
+    "uz": "Betondan foydalanish va ta'mirlash",
+    "ru": "Ремонт и эксплуатация бетона",
+    "eng": "Concrete Repair and Maintenance"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa11db02e19450d579c"
+  },
+  "title": {
+    "uz": "Qurilishga oid xizmatlar",
+    "ru": "Строительные услуги",
+    "eng": "Construction Services"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa11db02e19450d579d"
+  },
+  "title": {
+    "uz": "Peshtaxtalarni o'rnatish",
+    "ru": "Установка столешницы",
+    "eng": "Countertop Installation"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa11db02e19450d579e"
+  },
+  "title": {
+    "uz": "Peshtaxtani qayta ta'mirlash",
+    "ru": "Ремонт или обслуживание столешницы",
+    "eng": "Countertop Repair or Maintenance"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa11db02e19450d579f"
+  },
+  "title": {
+    "uz": "Oshxona jihozlarini yasab berish xizmati",
+    "ru": "Изготовление кухонные гарнитуры",
+    "eng": "Custom Cabinet Building"
+  },
+  "imageUrl": "images/services/1601550662207-6396249f0d0116fd313d2f3b5f447223.jpg",
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa11db02e19450d57a0"
+  },
+  "title": {
+    "uz": "Zakazga mebel tayyorlash",
+    "ru": "Изготовление мебели на заказ",
+    "eng": "Custom Furniture Building"
+  },
+  "imageUrl": "images/services/1601461501341-FMQP6WAGSQI6HCWBLGOZZHQICI.jpg",
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa11db02e19450d57a1"
+  },
+  "title": {
+    "uz": "Palubani bo'yash va havfsizlash xizmati",
+    "ru": "Окрашивание и изолирование палубы",
+    "eng": "Deck Staining and Sealing"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa11db02e19450d57a2"
+  },
+  "title": {
+    "uz": "Balkon kengaytish va ta'mirlash xizmati",
+    "ru": "Пристройка и ремонт балкона / подвес",
+    "eng": "Deck or Porch Remodel or Addition"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa11db02e19450d57a3"
+  },
+  "title": {
+    "uz": "Buzish bo'yicha xizmatlar",
+    "ru": "Услуги по сносу",
+    "eng": "Demolition Services"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa11db02e19450d57a4"
+  },
+  "title": {
+    "uz": "Eshiklarni o'rnatish",
+    "ru": "Установка дверей",
+    "eng": "Door Installation"
+  },
+  "imageUrl": "images/services/1601550336422-Brickmold-vs.-No-Brickmold-Door-Whats-the-Difference.jpg",
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa11db02e19450d57a5"
+  },
+  "title": {
+    "uz": "Eshiklarni ta'mirlash",
+    "ru": "Ремонт дверей",
+    "eng": "Door Repair"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa11db02e19450d57a6"
+  },
+  "title": {
+    "uz": "Gipsokarton montaji va o'rnatish xizmati",
+    "ru": "Монтаж и подвеска гипсокартона",
+    "eng": "Drywall Installation and Hanging"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa11db02e19450d57a7"
+  },
+  "title": {
+    "uz": "Gipsokarton ta'mirlash va to'qish xizmati",
+    "ru": "Ремонт и текстурирование гипсокартона",
+    "eng": "Drywall Repair and Texturing"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa11db02e19450d57a8"
+  },
+  "title": {
+    "uz": "Dudburon va shamollatish kanallarini tozalash xizmati",
+    "ru": "Очистка воздуховодов и вентиляционных каналов",
+    "eng": "Duct and Vent Cleaning"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa11db02e19450d57a9"
+  },
+  "title": {
+    "uz": "Dudburon va shamollatish kanallari teshiklarini o'rnatish yoki olib tashlash",
+    "ru": "Установка или удаление воздуховодов и вентиляционных отверстий",
+    "eng": "Duct and Vent Installation or Removal"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa11db02e19450d57aa"
+  },
+  "title": {
+    "uz": "Dudburon va shamollatish kanallarini ta'mirlash",
+    "ru": "Ремонт воздуховодов и вентиляционных отверстий",
+    "eng": "Duct and Vent Repair"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa11db02e19450d57ab"
+  },
+  "title": {
+    "uz": "Yaroqsiz qoldiqlar uchun maxsus idishlar ijarasi",
+    "ru": "Прокат мусорных контейнеров",
+    "eng": "Dumpster Rental"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa11db02e19450d57ac"
+  },
+  "title": {
+    "uz": "Elektr jihozlari va elektr o'tkazgichlarni ta'mirlash",
+    "ru": "Ремонт электрооборудования и электропроводки",
+    "eng": "Electrical and Wiring Repair"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa11db02e19450d57ae"
+  },
+  "title": {
+    "uz": "O'ymakorlik xizmati",
+    "ru": "Гравюра",
+    "eng": "Engraving"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa11db02e19450d57af"
+  },
+  "title": {
+    "uz": "Pol uchun Sintetik (Sun'iy) qoplama",
+    "ru": "Эпоксидное напольное покрытие",
+    "eng": "Epoxy Floor Coating"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa11db02e19450d57b0"
+  },
+  "title": {
+    "uz": "Yer qazish ishlari",
+    "ru": "Земляные работы",
+    "eng": "Excavation Services"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d57b1"
+  },
+  "title": {
+    "uz": "Tashqi bo'yash (Ustki)",
+    "ru": "Внешняя покраска",
+    "eng": "Exterior Painting"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d57b2"
+  },
+  "title": {
+    "uz": "Ventilyator o'rnatish",
+    "ru": "Установка вентилятора",
+    "eng": "Fan Installation"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d57b3"
+  },
+  "title": {
+    "uz": "Sun'iy bezak berish va bo'yash xizmati",
+    "ru": "Искусственная отделка или покраска",
+    "eng": "Faux Finishing or Painting"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d57b4"
+  },
+  "title": {
+    "uz": "To'siqlarni bo'yash xizmati",
+    "ru": "Покраска забора",
+    "eng": "Fence Painting"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d57b5"
+  },
+  "title": {
+    "uz": "Darvoza va to'siqlar o'rnatish",
+    "ru": "Установка заборов и ворот",
+    "eng": "Fence and Gate Installation"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d57b6"
+  },
+  "title": {
+    "uz": "Darvoza va to'siqlarni ta'mirlash",
+    "ru": "Ремонт заборов и ворот",
+    "eng": "Fence and Gate Repairs"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d57b7"
+  },
+  "title": {
+    "uz": "Duradgorlik xizmati",
+    "ru": "Отделка столярных изделий",
+    "eng": "Finish Carpentry"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d57b8"
+  },
+  "title": {
+    "uz": "Kamin va Dudburon tozalash va ta'mirlash xizmati",
+    "ru": "Чистка или ремонт каминов и дымоходов",
+    "eng": "Fireplace and Chimney Cleaning or Repair"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d57b9"
+  },
+  "title": {
+    "uz": "Kamin va Dudburon o'rnatish xizmati",
+    "ru": "Установка камина и дымохода",
+    "eng": "Fireplace and Chimney Installation"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d57ba"
+  },
+  "title": {
+    "uz": "Fitnes uskunalar yig'ish xizmati",
+    "ru": "Сборка фитнес оборудования",
+    "eng": "Fitness Equipment Assembly"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d57bb"
+  },
+  "title": {
+    "uz": "Pol tozalash xizmati",
+    "ru": "Очистка пола",
+    "eng": "Floor Cleaning"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d57bc"
+  },
+  "title": {
+    "uz": "Pol o'rnatish va almashtirish xizmati",
+    "ru": "Установка или замена пола",
+    "eng": "Floor Installation or Replacement"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d57bd"
+  },
+  "title": {
+    "uz": "Pol va boshqa qoplamalarni bo'yash xizmati",
+    "ru": "Покраска пола или покрытие",
+    "eng": "Floor Painting or Coating"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d57be"
+  },
+  "title": {
+    "uz": "Polni sayqallash xizmati",
+    "ru": "Полировка пола",
+    "eng": "Floor Polishing"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d57bf"
+  },
+  "title": {
+    "uz": "Polni ta'mirlash xizmati",
+    "ru": "Ремонт пола",
+    "eng": "Floor Repair"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d57c0"
+  },
+  "title": {
+    "uz": "Fundamentni ta'mirlash",
+    "ru": "Ремонт фундамента",
+    "eng": "Foundation Repair"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d57c1"
+  },
+  "title": {
+    "uz": "Duradgorlik hom-ashyolarini ramkalash xizmati",
+    "ru": "Обрамление столярных изделий",
+    "eng": "Framing Carpentry"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d57c2"
+  },
+  "title": {
+    "uz": "Gazon parvarishlash xizmati",
+    "ru": "Сервис по уходу за газоном",
+    "eng": "Full Service Lawn Care"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d57c3"
+  },
+  "title": {
+    "uz": "Mebel yig'ish xizmati",
+    "ru": "Сборка мебели",
+    "eng": "Furniture Assembly"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d57c4"
+  },
+  "title": {
+    "uz": "Mebel yetkazib berish",
+    "ru": "Доставка мебели",
+    "eng": "Furniture Delivery"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d57c5"
+  },
+  "title": {
+    "uz": "Og'ir va boshqa barcha turdagi mebellarni tashish xizmati",
+    "ru": "Перемещение мебели и тяжелая атлетика",
+    "eng": "Furniture Moving and Heavy Lifting"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d57c6"
+  },
+  "title": {
+    "uz": "Mebelga bezak berish xizmati",
+    "ru": "Отделка мебели",
+    "eng": "Furniture Refinishing"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d57c7"
+  },
+  "title": {
+    "uz": "Mebel ta'mirlash xizmati",
+    "ru": "Ремонт мебели",
+    "eng": "Furniture Repair"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d57c8"
+  },
+  "title": {
+    "uz": "Mebel qoplamalari",
+    "ru": "Мебельная обивка",
+    "eng": "Furniture Upholstery"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d57c9"
+  },
+  "title": {
+    "uz": "Garaj darvozalarini o'rnatish yoki almashtirish xizmati",
+    "ru": "Установка или замена гаражных ворот",
+    "eng": "Garage Door Installation or Replacement"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d57ca"
+  },
+  "title": {
+    "uz": "Garaj darvozalarini ta'mirlash",
+    "ru": "Ремонт гаражных ворот",
+    "eng": "Garage Door Repair"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d57cb"
+  },
+  "title": {
+    "uz": "Garaj, podval yoki boloxonani tozalash xizmati",
+    "ru": "Уборка гаража, подвала или чердака",
+    "eng": "Garage, Basement or Attic Cleaning"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d57cc"
+  },
+  "title": {
+    "uz": "Chiqindi yig'ish moslamasini o'rnatish",
+    "ru": "Установка устройство для вывоза мусора",
+    "eng": "Garbage Disposal Installation"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d57cd"
+  },
+  "title": {
+    "uz": "Chiqindi yo'q qiluvchi moslamani ta'mirlash",
+    "ru": "Ремонт утилизатора отходов",
+    "eng": "Garbage Disposal Repair"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d57ce"
+  },
+  "title": {
+    "uz": "Bog'bonchilik",
+    "ru": "Садоводство",
+    "eng": "Gardening"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d57cf"
+  },
+  "title": {
+    "uz": "Gaz quvurini o'rnatish",
+    "ru": "Установка газопровода",
+    "eng": "Gas Line Installation"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d57d0"
+  },
+  "title": {
+    "uz": "Soyabon o'rnatish xizmati",
+    "ru": "Установка шатёр (Монтаж и строительство)",
+    "eng": "Gazebo Installation and Construction"
+  },
+  "imageUrl": null,
+  "keywords": [
+    "besedka",
+    "беседка",
+    "ayvon"
+  ],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d57d1"
+  },
+  "title": {
+    "uz": "Umumiy duradgorlik mahsulotlari",
+    "ru": "Общие столярные изделия",
+    "eng": "General Carpentry"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d57d2"
+  },
+  "title": {
+    "uz": "Umumiy shartnomalar tuzuvchi",
+    "ru": "Генеральный подрядчик",
+    "eng": "General Contracting"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d57d3"
+  },
+  "title": {
+    "uz": "Generator o'rnatish",
+    "ru": "Установка генератора",
+    "eng": "Generator Installation"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d57d4"
+  },
+  "title": {
+    "uz": "Generator ta'mirlash",
+    "ru": "Ремонт генератора",
+    "eng": "Generator Repair"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d57d5"
+  },
+  "title": {
+    "uz": "Truba tozalash va texnik xizmat ko'rsatish",
+    "ru": "Очистка и обслуживание желоба",
+    "eng": "Gutter Cleaning and Maintenance"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d57d6"
+  },
+  "title": {
+    "uz": "Truba o'rnatish yoki almashtirish",
+    "ru": "Установка или замена желоба",
+    "eng": "Gutter Installation or Replacement"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d57d7"
+  },
+  "title": {
+    "uz": "Truba ta'mirlash",
+    "ru": "Ремонт желоба",
+    "eng": "Gutter Repair"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d57d8"
+  },
+  "title": {
+    "uz": "Universal Usta",
+    "ru": "Мастер на все руки",
+    "eng": "Handyman"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d57d9"
+  },
+  "title": {
+    "uz": "Parket qoplash",
+    "ru": "Отделка паркета",
+    "eng": "Hardwood Floor Refinishing"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d57da"
+  },
+  "title": {
+    "uz": "Isitish sistemasini o'rnatish yoki almashtirish",
+    "ru": "Установка или замена отопительной системы",
+    "eng": "Heating System Installation or Replacement"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d57db"
+  },
+  "title": {
+    "uz": "Isitish sistemasini ta'mirlash yoki boshqa texnik xizmat ko'rsatish",
+    "ru": "Ремонт или обслуживание отопительной системы",
+    "eng": "Heating System Repair or Maintenance"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d57dc"
+  },
+  "title": {
+    "uz": "Bayramona yoritish jihozlarini o'rnatish yoki olib tashlash",
+    "ru": "Установка и снятие праздничного освещения",
+    "eng": "Holiday Lighting Installation and Removal"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d57dd"
+  },
+  "title": {
+    "uz": "Uyni ta'mirlash",
+    "ru": "Ремоделирование дома",
+    "eng": "Home Remodeling"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d57de"
+  },
+  "title": {
+    "uz": "Uy havfsizlik tizimini ta'mirlash",
+    "ru": "Ремонт системы видеонаблюдения",
+    "eng": "Home Security System Repair"
+  },
+  "imageUrl": null,
+  "keywords": [
+    "Ремонт системы домашней безопасности"
+  ],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d57df"
+  },
+  "title": {
+    "uz": "Uy havfsizlik tizimini va signalizatsiya o'rnatish",
+    "ru": "Установка системы камеры наблюдения u сигнализации ",
+    "eng": "Home Security and Alarms Install"
+  },
+  "imageUrl": null,
+  "keywords": [
+    "Безопасность дома и установка сигнализации",
+    "видеонаблюдения",
+    "security & surveillance camera installation"
+  ],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d57e0"
+  },
+  "title": {
+    "uz": "Uyni sotuvga tayyorlash xizmati",
+    "ru": "Предпродажная подготовка домов",
+    "eng": "Home Staging"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d57e1"
+  },
+  "title": {
+    "uz": "Uy kinoteatrini o'rnatish yoki almashtirish xizmati",
+    "ru": "Установка или замена системы домашнего кинотеатра",
+    "eng": "Home Theater System Installation or Replacement"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d57e2"
+  },
+  "title": {
+    "uz": "Uy kinoteatriga texnik xizmat ko'rsatish yoki ta'mirlash",
+    "ru": "Ремонт или обслуживание систем домашнего кинотеатра",
+    "eng": "Home Theater System Repair or Service"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d57e3"
+  },
+  "title": {
+    "uz": "Uy gidroizolyatsiyasi",
+    "ru": "Гидроизоляция дома",
+    "eng": "Home Waterproofing"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d57e4"
+  },
+  "title": {
+    "uz": "Jakuzini ko'chirib o'tish",
+    "ru": "Перемещение джакузи",
+    "eng": "Hot Tub Moving"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d57e5"
+  },
+  "title": {
+    "uz": "Jakuzi va spa jihozlarini tozalash va texnik xizmat ko'rsatish",
+    "ru": "Очистка и обслуживание джакузи и спа",
+    "eng": "Hot Tub and Spa Cleaning and Maintenance"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d57e6"
+  },
+  "title": {
+    "uz": "Jakuzi va spa jihozlarini o'rnatish",
+    "ru": "Установка джакузи и спа",
+    "eng": "Hot Tub and Spa Installation"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d57e7"
+  },
+  "title": {
+    "uz": "Jakuzi va spa jihozlarini ta'mirlash",
+    "ru": "Ремонт джакузи и спа",
+    "eng": "Hot Tub and Spa Repair"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d57e8"
+  },
+  "title": {
+    "uz": "Uy tozalash xizmati",
+    "ru": "Уборка дома",
+    "eng": "House Cleaning"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d57e9"
+  },
+  "title": {
+    "uz": "Yer osti basseyni qurish",
+    "ru": "Строительство подземного бассейна",
+    "eng": "In-Ground Swimming Pool Construction"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d57ea"
+  },
+  "title": {
+    "uz": "Izolyatsiyani o'rnatish yoki modernizatsiyalash (yangilash)",
+    "ru": "Установка изоляции или модернизация",
+    "eng": "Insulation Installation or Upgrade"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d57eb"
+  },
+  "title": {
+    "uz": "Interyer dizayni",
+    "ru": "Дизайн интерьера",
+    "eng": "Interior Design"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d57ec"
+  },
+  "title": {
+    "uz": "Interyerni bo'yash (rang berish)",
+    "ru": "Покраска интерьера",
+    "eng": "Interior Painting"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d57ed"
+  },
+  "title": {
+    "uz": "Chiqindini yo'q qilish",
+    "ru": "Удаление мусора",
+    "eng": "Junk Removal"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d57ee"
+  },
+  "title": {
+    "uz": "Oshxona ta'mirlash",
+    "ru": "Кухня переделывать",
+    "eng": "Kitchen Remodel"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d57ef"
+  },
+  "title": {
+    "uz": "Hovli yerlarini tozalash",
+    "ru": "Расчистка земель",
+    "eng": "Land Clearing"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d57f0"
+  },
+  "title": {
+    "uz": "Yerlarni tekkislash va parvarishlash (shudgorlash)",
+    "ru": "Выравнивание и классификация земель",
+    "eng": "Land Leveling and Grading"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d57f1"
+  },
+  "title": {
+    "uz": "Geodeziya",
+    "ru": "Геодезия",
+    "eng": "Land Surveying"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d57f2"
+  },
+  "title": {
+    "uz": "Chim kesuvchi mashinani ta'mirlash xizmati",
+    "ru": "Ремонт газонокосилок",
+    "eng": "Lawn Mower Repair"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d57f3"
+  },
+  "title": {
+    "uz": "Maysa o'rish va kesish xizmati",
+    "ru": "Стрижка газонов",
+    "eng": "Lawn Mowing and Trimming"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d57f4"
+  },
+  "title": {
+    "uz": "Yoritgichlar o'rnatish xizmati",
+    "ru": "Установка освещения",
+    "eng": "Lighting Installation"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d57f5"
+  },
+  "title": {
+    "uz": "Mahalliy ko'chib o'tish (50 mil.gacha - 80.4672 km.gacha)",
+    "ru": "Местные переезды (до 50 миль)",
+    "eng": "Local Moving (under 50 miles)"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d57f6"
+  },
+  "title": {
+    "uz": "Qulflarni o'rnatish va ta'mirlash",
+    "ru": "Установка и ремонт замков",
+    "eng": "Lock Installation and Repair"
+  },
+  "imageUrl": "images/services/1601543384504-locksmith-door-3.jpg",
+  "keywords": [
+    "qulp tuzatish",
+    "qulf tuzatish"
+  ],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d57f7"
+  },
+  "title": {
+    "uz": "Uzoq masofaga ko'chib o'tish",
+    "ru": "Переезд на дальние расстояния",
+    "eng": "Long Distance Moving"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d57f8"
+  },
+  "title": {
+    "uz": "Qurilish xizmatlari",
+    "ru": "Строительные услуги",
+    "eng": "Masonry Construction Services"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d57f9"
+  },
+  "title": {
+    "uz": "Metal bilan ishlash",
+    "ru": "Металлические изделия",
+    "eng": "Metalwork"
+  },
+  "imageUrl": null,
+  "keywords": [
+    "temir"
+  ],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d57fa"
+  },
+  "title": {
+    "uz": "Mog'or zamburug'ini tekshirish va yo'q qilish",
+    "ru": "Проверка и удаление плесени",
+    "eng": "Mold Inspection and Removal"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d57fb"
+  },
+  "title": {
+    "uz": "Mulchalash (qoplash)",
+    "ru": "Мульчирование",
+    "eng": "Mulching"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d57fc"
+  },
+  "title": {
+    "uz": "Haykaltaroshlik",
+    "ru": "Монументалист",
+    "eng": "Muralist"
+  },
+  "imageUrl": null,
+  "keywords": [
+    "gips"
+  ],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d57fd"
+  },
+  "title": {
+    "uz": "Yangi uy qurish",
+    "ru": "Строительство нового дома",
+    "eng": "New Home Construction"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d57fe"
+  },
+  "title": {
+    "uz": "Hidlarni yo'qotish",
+    "ru": "Удаление запаха",
+    "eng": "Odor Removal"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d57ff"
+  },
+  "title": {
+    "uz": "Ofisni ko'chirish ishlari",
+    "ru": "Переезд офиса",
+    "eng": "Office Moving"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d5800"
+  },
+  "title": {
+    "uz": "Landshaft dizayni",
+    "ru": "Ландшафтный дизайн",
+    "eng": "Landscape Design"
+  },
+  "imageUrl": null,
+  "keywords": [
+    "Outdoor Landscaping and Design",
+    "Ландшафтный дизайн и дизайн"
+  ],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d5801"
+  },
+  "title": {
+    "uz": "Chivinlar bilan kurashish xizmati",
+    "ru": "Наружные службы борьбы с комарами",
+    "eng": "Outdoor Mosquito Control Services"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d5802"
+  },
+  "title": {
+    "uz": "Pestitsidlarni tashqi qo'llash",
+    "ru": "Наружное применение пестицидов",
+    "eng": "Outdoor Pesticide Application"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d5803"
+  },
+  "title": {
+    "uz": "Qadoqlash",
+    "ru": "Упаковка и распаковка",
+    "eng": "Packing and Unpacking"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d5804"
+  },
+  "title": {
+    "uz": "Bo'yoqni yo'q qilish (O'chirish)",
+    "ru": "Удаление краски",
+    "eng": "Paint Removal"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d5805"
+  },
+  "title": {
+    "uz": "Hovliga ishlov berish va tent (chodirlar) xizmatlari",
+    "ru": "Обложка для патио и тентовые услуги",
+    "eng": "Patio Cover and Awning Services"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d5806"
+  },
+  "title": {
+    "uz": "Terrasa qurish xizmati",
+    "ru": "Строительство террас",
+    "eng": "Patio Remodel or Addition"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d5807"
+  },
+  "title": {
+    "uz": "Hasharotlar bilan kurashish xizmati",
+    "ru": "Службы борьбы с вредителями",
+    "eng": "Pest Control Services"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d5808"
+  },
+  "title": {
+    "uz": "Uskuna va uy jixozlarini ko'chirish xizmati",
+    "ru": "услуги по перемещению предметов",
+    "eng": "Piano Moving"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d5809"
+  },
+  "title": {
+    "uz": "Fotosurat va kartinalarni o'rnatish",
+    "ru": "Подвеска картин и художественная установка",
+    "eng": "Picture Hanging and Art Installation"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d580a"
+  },
+  "title": {
+    "uz": "Suvoqchilik xizmatlari",
+    "ru": "Оштукатуривание",
+    "eng": "Plastering"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d580b"
+  },
+  "title": {
+    "uz": "O'yin jihozlarini ta'mirlash va qurish",
+    "ru": "Строительство и монтаж игрового оборудования",
+    "eng": "Play Equipment Construction and Assembly"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d580c"
+  },
+  "title": {
+    "uz": "Suv quvurlarini ta'mirlash",
+    "ru": "Ремонт водопровода",
+    "eng": "Plumbing Drain Repair"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d580d"
+  },
+  "title": {
+    "uz": "Santexnika jihozlarini tekshirish",
+    "ru": "Инспекция сантехники",
+    "eng": "Plumbing Inspection"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d580e"
+  },
+  "title": {
+    "uz": "Quvurlarni o'rnatish yoki almashtirish",
+    "ru": "Установка или замена сантехнических труб",
+    "eng": "Plumbing Pipe Installation or Replacement"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d580f"
+  },
+  "title": {
+    "uz": "Santexnik",
+    "ru": "Сантехник",
+    "eng": "Plumber"
+  },
+  "imageUrl": null,
+  "keywords": [
+    "suvquvur tuzatish xizmati"
+  ],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d5810"
+  },
+  "title": {
+    "uz": "Bilyard sotilini ko'chirib o'tish",
+    "ru": "Перемещение бильярдного стола",
+    "eng": "Pool Table Moving"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d5811"
+  },
+  "title": {
+    "uz": "Blyard stolini ta'mirlash xizmati",
+    "ru": "Услуги по ремонту бильярдных столов",
+    "eng": "Pool Table Repair Services"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d5812"
+  },
+  "title": {
+    "uz": "Shiftni tekislash (ko'chirish) xizmati",
+    "ru": "Удаление текстуры попкорна",
+    "eng": "Popcorn Texture Removal"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d5813"
+  },
+  "title": {
+    "uz": "Kukunli qoplama",
+    "ru": "Порошковое покрытие",
+    "eng": "Powder Coating"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d5814"
+  },
+  "title": {
+    "uz": "Bosim bilan yuvish (avtomoyka)",
+    "ru": "Мойка под давлением",
+    "eng": "Pressure Washing"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d5815"
+  },
+  "title": {
+    "uz": "Mulkni boshqarish",
+    "ru": "Управление недвижимостью",
+    "eng": "Property Management"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d5816"
+  },
+  "title": {
+    "uz": "Radon gazini yumshatish",
+    "ru": "Радон Смягчение",
+    "eng": "Radon Mitigation"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d5817"
+  },
+  "title": {
+    "uz": "Panjara o'rnatish yoki o'zgartirish",
+    "ru": "Установка или реконструкция перил",
+    "eng": "Railing Installation or Remodel"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d5818"
+  },
+  "title": {
+    "uz": "Mol-mulk agenti xizmatlari",
+    "ru": "Услуги агента по недвижимости",
+    "eng": "Real Estate Agent Services"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d5819"
+  },
+  "title": {
+    "uz": "Mol-mulkni baholash",
+    "ru": "Оценка недвижимости",
+    "eng": "Real Estate Appraisal"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d581a"
+  },
+  "title": {
+    "uz": "Kemiruvchilar va hashoratlarni yo'q qilish",
+    "ru": "Удаление грызунов и животных",
+    "eng": "Rodent and Animal Removal"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d581b"
+  },
+  "title": {
+    "uz": "Tomni tozalash xizmati",
+    "ru": "Очистка крыши",
+    "eng": "Roof Cleaning"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d581c"
+  },
+  "title": {
+    "uz": "Tomni tekshirish xizmati",
+    "ru": "Проверка крыши",
+    "eng": "Roof Inspection"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d581d"
+  },
+  "title": {
+    "uz": "Tomni o'rnatish va almashtirish xizmati",
+    "ru": "Установка или замена крыши",
+    "eng": "Roof Installation or Replacement"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d581e"
+  },
+  "title": {
+    "uz": "Tomni ta'mirlash va texnik xizmat ko'rsatish",
+    "ru": "Ремонт крыши или техническое обслуживание",
+    "eng": "Roof Repair or Maintenance"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d581f"
+  },
+  "title": {
+    "uz": "Xonani qayta ta'mirlash (O'zgartirish)",
+    "ru": "Реконструировать ( переделывать) номера",
+    "eng": "Room Remodel"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d5820"
+  },
+  "title": {
+    "uz": "Gilam tozalash xizmati",
+    "ru": "Очистка коврика",
+    "eng": "Rug Cleaning"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d5821"
+  },
+  "title": {
+    "uz": "Sputnik antenna xizmatlari",
+    "ru": "Услуги спутниковой антенны",
+    "eng": "Satellite Dish Services"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d5822"
+  },
+  "title": {
+    "uz": "Ekran o'rnatish yoki almashtirish xizmati",
+    "ru": "Установка или замена экрана",
+    "eng": "Screen Installation or Replacement"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa21db02e19450d5823"
+  },
+  "title": {
+    "uz": "Septik tizim o'rnatish yoki almashtirish xizmati",
+    "ru": "Установка или замена септической системы",
+    "eng": "Septic System Installation or Replacement"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa31db02e19450d5824"
+  },
+  "title": {
+    "uz": "Septik tizimni ta'mirlash, xizmat ko'rsatish yoki tekshirish xizmati",
+    "ru": "Ремонт, обслуживание или проверка септической системы",
+    "eng": "Septic System Repair, Maintenance or Inspection"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa31db02e19450d5825"
+  },
+  "title": {
+    "uz": "Dush va vanna o'rnatish va almashtirish",
+    "ru": "Установка или замена душа и ванны",
+    "eng": "Shower and Bathtub Installation or Replacement"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa31db02e19450d5826"
+  },
+  "title": {
+    "uz": "Dush va vanna ta'mirlash",
+    "ru": "Ремонт душа и ванны",
+    "eng": "Shower and Bathtub Repair"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa31db02e19450d5827"
+  },
+  "title": {
+    "uz": "Butani kaltalash yoki olib tashlash",
+    "ru": "Обрезка и удаление кустарников",
+    "eng": "Shrub Trimming and Removal"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa31db02e19450d5828"
+  },
+  "title": {
+    "uz": "Sayding o'rnatish",
+    "ru": "Установка сайдинга",
+    "eng": "Siding Installation"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa31db02e19450d5829"
+  },
+  "title": {
+    "uz": "Saydingni olib tashlash",
+    "ru": "Удаление сайдинга",
+    "eng": "Siding Removal"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa31db02e19450d582a"
+  },
+  "title": {
+    "uz": "Sayding ta'mirlash",
+    "ru": "Ремонт сайдинга",
+    "eng": "Siding Repair"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa31db02e19450d582b"
+  },
+  "title": {
+    "uz": "Chig'anoq va yuvgichlar o'rnatish va almashtirish",
+    "ru": "Установка или замена раковины или крана",
+    "eng": "Sink or Faucet Installation or Replacement"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa31db02e19450d582c"
+  },
+  "title": {
+    "uz": "Chig'anoq va yuvgichlar ta'mirlash",
+    "ru": "Ремонт раковины или крана",
+    "eng": "Sink or Faucet Repair"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa31db02e19450d582d"
+  },
+  "title": {
+    "uz": "Aqlli uyni o'rnatish yoki ta'mirlash",
+    "ru": "Умный дом - Установка или ремонт",
+    "eng": "Smart Home Installation or Repair"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa31db02e19450d582e"
+  },
+  "title": {
+    "uz": "Qor kurash xizmati",
+    "ru": "Вспашка снега",
+    "eng": "Snow Plowing"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa31db02e19450d582f"
+  },
+  "title": {
+    "uz": "Torf o'rnatish xizmati (Tabiiy gazon)",
+    "ru": "Установка дерна",
+    "eng": "Sod Installation"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa31db02e19450d5830"
+  },
+  "title": {
+    "uz": "Quyosh batareyasini tozalash",
+    "ru": "Очистка солнечных батарей",
+    "eng": "Solar Panel Cleaning"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa31db02e19450d5831"
+  },
+  "title": {
+    "uz": "Quyosh batareyasini o'rnatish va ta'mirlash",
+    "ru": "Установка и ремонт солнечных батарей",
+    "eng": "Solar Panel Installation and Repair"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa31db02e19450d5832"
+  },
+  "title": {
+    "uz": "Ovoz izolyatsiyasi",
+    "ru": "Звукоизоляция",
+    "eng": "Sound Proofing"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa31db02e19450d5833"
+  },
+  "title": {
+    "uz": "Purkash va sug'orish tizimlarini o'rnatish",
+    "ru": "Установка спринклеров и ирригационных систем",
+    "eng": "Sprinkler and Irrigation System Installation"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa31db02e19450d5834"
+  },
+  "title": {
+    "uz": "Purkash va sug'orish tizimlariga texnik xizmat ko'rsatish va ta'mirlash",
+    "ru": "Ремонт и обслуживание спринклерных и ирригационных систем",
+    "eng": "Sprinkler and Irrigation System Repair and Maintenance"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa31db02e19450d5835"
+  },
+  "title": {
+    "uz": "Zinapoyalar o'rnatish, loyihalash yoki ta'mirlash xizmati",
+    "ru": "Установка, реконструкция или ремонт лестницы",
+    "eng": "Stair Installation, Remodel, or Repair"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa31db02e19450d5836"
+  },
+  "title": {
+    "uz": "Tuzilmaviy - muhandislik xizmati",
+    "ru": "Структурно-инженерные услуги",
+    "eng": "Structural Engineering Services"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa31db02e19450d5837"
+  },
+  "title": {
+    "uz": "Suvoqchilik xizmati",
+    "ru": "Штукатурка Применение",
+    "eng": "Stucco Application"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa31db02e19450d5838"
+  },
+  "title": {
+    "uz": "Suvoqchilik xizmati (ta'mirlash)",
+    "ru": "Ремонт штукатурка",
+    "eng": "Stucco Repair"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa31db02e19450d5839"
+  },
+  "title": {
+    "uz": "Nasos pompasini o'rnatish yoki almashtirish",
+    "ru": "Установка или замена отстойного насоса",
+    "eng": "Sump Pump Installation or Replacement"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa31db02e19450d583a"
+  },
+  "title": {
+    "uz": "Basseyn tozalash, uni tekshirish va texnik xizmat ko'rsatish",
+    "ru": "Чистка бассейна, техническое обслуживание и проверка",
+    "eng": "Swimming Pool Cleaning, Maintenance, and Inspection"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa31db02e19450d583b"
+  },
+  "title": {
+    "uz": "Basseyn holatini tekshirish",
+    "ru": "Осмотр (Проверка) бассейна",
+    "eng": "Swimming Pool Inspection"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa31db02e19450d583c"
+  },
+  "title": {
+    "uz": "Basseynni olib tashlash",
+    "ru": "Удаление бассейна",
+    "eng": "Swimming Pool Removal"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa31db02e19450d583d"
+  },
+  "title": {
+    "uz": "Basseynni ta'mirlash",
+    "ru": "Ремонт бассейна",
+    "eng": "Swimming Pool Repair"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa31db02e19450d583e"
+  },
+  "title": {
+    "uz": "O'chirgich va rozetka o'rnatish",
+    "ru": "Установка выключателя и розетки",
+    "eng": "Switch and Outlet Installation"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa31db02e19450d583f"
+  },
+  "title": {
+    "uz": "O'chirgich va rozetka ta'mirlash",
+    "ru": "Ремонт выключателей и розеток",
+    "eng": "Switch and Outlet Repair"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa31db02e19450d5840"
+  },
+  "title": {
+    "uz": "TV montaji",
+    "ru": "ТВ монтаж",
+    "eng": "TV Mounting"
+  },
+  "imageUrl": null,
+  "keywords": [
+    "кронштейн",
+    "kranshteyn"
+  ],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa31db02e19450d5841"
+  },
+  "title": {
+    "uz": "Televizor ta'mirlash",
+    "ru": "Ремонт телевизоров",
+    "eng": "TV Repair Services"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa31db02e19450d5842"
+  },
+  "title": {
+    "uz": "Termitlarni nazorat qilish xizmatlari",
+    "ru": "Услуги по контролю за термитами",
+    "eng": "Termite Control Services"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa31db02e19450d5843"
+  },
+  "title": {
+    "uz": "Termitlarni tekshirish",
+    "ru": "Термит Инспекция",
+    "eng": "Termite Inspection"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa31db02e19450d5844"
+  },
+  "title": {
+    "uz": "Termostatni o'rnatish yoki ta'mirlash",
+    "ru": "Установка или ремонт термостата",
+    "eng": "Thermostat Installation or Repair"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa31db02e19450d5845"
+  },
+  "title": {
+    "uz": "Plitkalarni o'rnatish va almashtirish",
+    "ru": "Установка и замена плитки",
+    "eng": "Tile Installation and Replacement"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa31db02e19450d5846"
+  },
+  "title": {
+    "uz": "Plitkalarni ta'mirlash",
+    "ru": "Ремонт плитки",
+    "eng": "Tile Repair"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa31db02e19450d5847"
+  },
+  "title": {
+    "uz": "Plitka va sement qoldiqlarini tozalash \r\n",
+    "ru": "Очистка плитки и Цементного раствора",
+    "eng": "Tile and Grout Cleaning"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa31db02e19450d5848"
+  },
+  "title": {
+    "uz": "Hojatxona (o'rnatish yoki almashtirish)",
+    "ru": "Установка или замена туалета",
+    "eng": "Toilet Installation or Replacement"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa31db02e19450d5849"
+  },
+  "title": {
+    "uz": "Hojatxona ta'mirlash xizmati",
+    "ru": "Ремонт туалета",
+    "eng": "Toilet Repair"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa31db02e19450d584a"
+  },
+  "title": {
+    "uz": "Daraxt ekish",
+    "ru": "Посадка деревьев",
+    "eng": "Tree Planting"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa31db02e19450d584b"
+  },
+  "title": {
+    "uz": "Daraxt qoldiqlarini silliqlash va olib tashlash",
+    "ru": "Шлифование и удаление пня",
+    "eng": "Tree Stump Grinding and Removal"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa31db02e19450d584c"
+  },
+  "title": {
+    "uz": "Daraxrlarni kaltalatish (kesish) va olib tashlash",
+    "ru": "Обрезка и удаление деревьев",
+    "eng": "Tree Trimming and Removal"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa31db02e19450d584d"
+  },
+  "title": {
+    "uz": "Kesish yoki inyeksiya birligi (qirqish qismlari)",
+    "ru": "Трим или литьевая установка (отделочные детали)",
+    "eng": "Trim or Molding Installation"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa31db02e19450d584e"
+  },
+  "title": {
+    "uz": "Mebel ta'mirlash va tozalash",
+    "ru": "Обивка и чистка мебели",
+    "eng": "Upholstery and Furniture Cleaning"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa31db02e19450d584f"
+  },
+  "title": {
+    "uz": "Devor qog'ozlarini yopishtirish yoki ta'mirlash",
+    "ru": "Установка или ремонт обоев",
+    "eng": "Wallpaper Installation or Repair"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa31db02e19450d5850"
+  },
+  "title": {
+    "uz": "Devor qog'ozlarini olib tashlash",
+    "ru": "Удаление обоев",
+    "eng": "Wallpaper Removal"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa31db02e19450d5851"
+  },
+  "title": {
+    "uz": "Suvdan shikastlanishida tozalash va qayta ta'mirlash",
+    "ru": "Очистка и восстановление от повреждений водой",
+    "eng": "Water Damage Cleanup and Restoration"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa31db02e19450d5852"
+  },
+  "title": {
+    "uz": "Suv inshootlarini o'rnatish",
+    "ru": "Установка водного сооружения",
+    "eng": "Water Feature Installation"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa31db02e19450d5853"
+  },
+  "title": {
+    "uz": "Suv havzalarini ta'mirlash va texnik xizmat ko'rsatish",
+    "ru": "Ремонт и обслуживание водных объектов",
+    "eng": "Water Feature Repair and Maintenance"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa31db02e19450d5854"
+  },
+  "title": {
+    "uz": "Suv isitgichini o'rnatish yoki almashtirish",
+    "ru": "Установка или замена водонагревателя",
+    "eng": "Water Heater Installation or Replacement"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa31db02e19450d5855"
+  },
+  "title": {
+    "uz": "Suv isitgichlarini ta'mirlash yoki texnik xizmat ko'rsatish",
+    "ru": "Ремонт или тех.обслуживание водонагревателей",
+    "eng": "Water Heater Repair or Maintenance"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa31db02e19450d5856"
+  },
+  "title": {
+    "uz": "Suv tozalagichni ta'mirlash yoki texnik xizmat ko'rsatish",
+    "ru": "Ремонт или тех.обслуживание водоочистки",
+    "eng": "Water Treatment Repair or Maintenance"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa31db02e19450d5857"
+  },
+  "title": {
+    "uz": "Suv tozalaichni o'rnatish yoki almashtirish",
+    "ru": "Установка или замена системы очистки воды",
+    "eng": "Water Treatment System Installation or Replacement"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa31db02e19450d5858"
+  },
+  "title": {
+    "uz": "Isitish sistemasi",
+    "ru": "Утепление",
+    "eng": "Weatherization"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa31db02e19450d5859"
+  },
+  "title": {
+    "uz": "Ekinlardagi begona o'tlarni yo'q qilish",
+    "ru": "Пропалывание",
+    "eng": "Weeding"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa31db02e19450d585a"
+  },
+  "title": {
+    "uz": "Oyna yuvish",
+    "ru": "Мойка окон",
+    "eng": "Window Cleaning"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa31db02e19450d585b"
+  },
+  "title": {
+    "uz": "Oyna o'rnatish",
+    "ru": "Установка окон",
+    "eng": "Window Installation"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa31db02e19450d585c"
+  },
+  "title": {
+    "uz": "Oyna ta'mirlash",
+    "ru": "Ремонт окон",
+    "eng": "Window Repair"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa31db02e19450d585d"
+  },
+  "title": {
+    "uz": "Oynaga rang berish",
+    "ru": "Тонировка окон",
+    "eng": "Window Tinting"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa31db02e19450d585e"
+  },
+  "title": {
+    "uz": "Parda karnizini o'rnatish yoki ta'mirlash",
+    "ru": "Установка занавеса для карниза или Ремонт",
+    "eng": "Window Treatment Installation or Repair"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa31db02e19450d585f"
+  },
+  "title": {
+    "uz": "Deraza, devor yoki ko'chma konditsionerlarni ta'mirlash yoki texnik xizmat ko'rsatish",
+    "ru": "Ремонт или обслуживание окон, стен или портативных кондиционеров",
+    "eng": "Window, Wall, or Portable AC Repair or Maintenance"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1aa31db02e19450d5860"
+  },
+  "title": {
+    "uz": "Elektr simlarini o'rnatish",
+    "ru": "Монтаж электропроводки",
+    "eng": "Wiring Installation"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1b6c1db02e19450d5862"
+  },
+  "title": {
+    "uz": "Muqobil shifo (tibbiyot)",
+    "ru": "Альтернативное исцеление (Медицина)",
+    "eng": "Alternative Healing"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1b6c1db02e19450d5861"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1b6c1db02e19450d5863"
+  },
+  "title": {
+    "uz": "Astrologik ma'lumotlarni o'qib tahlil qilish",
+    "ru": "Чтение астрологии\r\n",
+    "eng": "Astrology Reading"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1b6c1db02e19450d5861"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1b6c1db02e19450d5864"
+  },
+  "title": {
+    "uz": "Yuz terisi uchun muolajalar",
+    "ru": "Процедуры для лица",
+    "eng": "Facial Treatments"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1b6c1db02e19450d5861"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1b6c1db02e19450d5865"
+  },
+  "title": {
+    "uz": "Oilalarga maslahat",
+    "ru": "Семейное консультирование",
+    "eng": "Family Counseling"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1b6c1db02e19450d5861"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1b6c1db02e19450d5866"
+  },
+  "title": {
+    "uz": "Salomatlik va sog'lomlashtirish bo'yicha trening",
+    "ru": "Здоровье и оздоровительное обучение",
+    "eng": "Health and Wellness Coaching"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1b6c1db02e19450d5861"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1b6c1db02e19450d5867"
+  },
+  "title": {
+    "uz": "Gipnoz muolajasi",
+    "ru": "Гипнотерапия",
+    "eng": "Hypnotherapy"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1b6c1db02e19450d5861"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1b6c1db02e19450d5868"
+  },
+  "title": {
+    "uz": "Shaxsiy o'sish (rivojlanish uchun) kurslari",
+    "ru": "Курcы по личностному развитию",
+    "eng": "Life Coaching"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1b6c1db02e19450d5861"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1b6c1db02e19450d5869"
+  },
+  "title": {
+    "uz": "Nikoh va munosabatlar bo'yicha maslahat",
+    "ru": "Консультирование по вопросам брака и отношений\r\n",
+    "eng": "Marriage and Relationship Counseling"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1b6c1db02e19450d5861"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1b6c1db02e19450d586a"
+  },
+  "title": {
+    "uz": "Massaj terapiyasi",
+    "ru": "Массажная терапия",
+    "eng": "Massage Therapy"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1b6c1db02e19450d5861"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1b6c1db02e19450d586b"
+  },
+  "title": {
+    "uz": "Diyetolog (To'g'ri ovqatlanish mutaxassisi)",
+    "ru": "Диетолог",
+    "eng": "Nutritionist"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1b6c1db02e19450d5861"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1b6c1db02e19450d586c"
+  },
+  "title": {
+    "uz": "Palmistika (odamning taqdirini qo'llarining ko'rinishidan o'qish ta'limoti)",
+    "ru": "Хиромантия",
+    "eng": "Palm Reading"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1b6c1db02e19450d5861"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1b6c1db02e19450d586d"
+  },
+  "title": {
+    "uz": "Fitnes Mashg'ulotlari",
+    "ru": "Фитнес Тренер",
+    "eng": "Personal Fitness Trainers"
+  },
+  "imageUrl": null,
+  "keywords": [
+    "Personal Training",
+    "Персональная подготовка",
+    "Shaxsiy mashg'ulotlar (trening, kurs)",
+    "trener"
+  ],
+  "category": {
+    "$oid": "5f1e1b6c1db02e19450d5861"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1b6c1db02e19450d586e"
+  },
+  "title": {
+    "uz": "Fizioterapiya",
+    "ru": "Физиотерапия",
+    "eng": "Physical Therapy"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1b6c1db02e19450d5861"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1b6c1db02e19450d586f"
+  },
+  "title": {
+    "uz": "Pilates mashg'ulotlari (yopiq guruh)",
+    "ru": "Занятия Пилатесом (личные)",
+    "eng": "Private Pilates Instruction"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1b6c1db02e19450d5861"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1b6c1db02e19450d5870"
+  },
+  "title": {
+    "uz": "Gimnastika Tai Chi (yopiq guruh)",
+    "ru": "Гимнастика Таи Чи (личные курсы)",
+    "eng": "Private Tai Chi Instruction"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1b6c1db02e19450d5861"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1b6c1db02e19450d5871"
+  },
+  "title": {
+    "uz": "Yoga kurslari (yopiq guruh)",
+    "ru": "Йога курсы (личные)",
+    "eng": "Private Yoga Instruction"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1b6c1db02e19450d5861"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1b6c1db02e19450d5872"
+  },
+  "title": {
+    "uz": "Ma'naviy maslahat",
+    "ru": "Духовное консультирование",
+    "eng": "Spiritual Counseling"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1b6c1db02e19450d5861"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1b6c1db02e19450d5873"
+  },
+  "title": {
+    "uz": "Taro kartalarini o'qish",
+    "ru": "Чтение Карты Таро",
+    "eng": "Tarot Card Reading"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1b6c1db02e19450d5861"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1b6c1db02e19450d5874"
+  },
+  "title": {
+    "uz": "Terapiya va mahlahat berish",
+    "ru": "Терапия и консультирование",
+    "eng": "Therapy and Counseling"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1b6c1db02e19450d5861"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1bcf1db02e19450d5876"
+  },
+  "title": {
+    "uz": "Hayvonlarni o'rgatish va xatti-harakatni tarbiyalash",
+    "ru": "Обучение животных и воспитание поведения",
+    "eng": "Animal Training and Behavior Modification"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1bcf1db02e19450d5875"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1bcf1db02e19450d5877"
+  },
+  "title": {
+    "uz": "Akvarium xizmatlari",
+    "ru": "Аквариум Услуги \r\n",
+    "eng": "Aquarium Services"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1bcf1db02e19450d5875"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1bcf1db02e19450d5878"
+  },
+  "title": {
+    "uz": "Mushuklar turmagi",
+    "ru": "Стрижка кошек",
+    "eng": "Cat Grooming"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1bcf1db02e19450d5875"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1bcf1db02e19450d5879"
+  },
+  "title": {
+    "uz": "Kuchuklarga qarash, parvarishlash (kunduzgi)",
+    "ru": "Уход за собаками (днём)",
+    "eng": "Dog Daycare"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1bcf1db02e19450d5875"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1bcf1db02e19450d587a"
+  },
+  "title": {
+    "uz": "It to'siqlarini o'rnatish",
+    "ru": "Установка Забора Собаки",
+    "eng": "Dog Fence Installation"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1bcf1db02e19450d5875"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1bcf1db02e19450d587b"
+  },
+  "title": {
+    "uz": "Kuchuklar turmagi",
+    "ru": "Стрижка собак",
+    "eng": "Dog Grooming"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1bcf1db02e19450d5875"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1bcf1db02e19450d587c"
+  },
+  "title": {
+    "uz": "Itlarning maxsus mashqlari (o'rgatish)",
+    "ru": "Дрессировка собак \r\n",
+    "eng": "Dog Training"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1bcf1db02e19450d5875"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1bcf1db02e19450d587d"
+  },
+  "title": {
+    "uz": "Itlarni sayr qildirish",
+    "ru": "Выгула собак \r\n",
+    "eng": "Dog Walking"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1bcf1db02e19450d5875"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1bcf1db02e19450d587e"
+  },
+  "title": {
+    "uz": "Uy hayvonlariga qarab turish (maxsus joyda)",
+    "ru": "Сиделка с питомцем (в специльном месте)",
+    "eng": "Pet Boarding"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1bcf1db02e19450d5875"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1bcf1db02e19450d587f"
+  },
+  "title": {
+    "uz": "Uy hayvonlariga qarab turish (sizning uyingizda)",
+    "ru": "Сиделка с питомцем (у вас дома)",
+    "eng": "Pet Sitting"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1bcf1db02e19450d5875"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c221db02e19450d5881"
+  },
+  "title": {
+    "uz": "3D modellashtirish",
+    "ru": "3D моделирование",
+    "eng": "3D Modeling"
+  },
+  "imageUrl": "images/services/1601550875465-255ca58d3eb59532d50fdf0f2bb53bdc.jpg",
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c221db02e19450d5880"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c221db02e19450d5882"
+  },
+  "title": {
+    "uz": "Buxgalteriya",
+    "ru": "Бухгалтерия",
+    "eng": "Accounting"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c221db02e19450d5880"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c221db02e19450d5883"
+  },
+  "title": {
+    "uz": "Ma'muriy yordam",
+    "ru": "Административная поддержка",
+    "eng": "Administrative Support"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c221db02e19450d5880"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c221db02e19450d5884"
+  },
+  "title": {
+    "uz": "Animatsiya",
+    "ru": "Анимация",
+    "eng": "Animation"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c221db02e19450d5880"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c221db02e19450d5885"
+  },
+  "title": {
+    "uz": "Biznes bo'yicha maslahat",
+    "ru": "Бизнес-консультирование",
+    "eng": "Business Consulting"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c221db02e19450d5880"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c221db02e19450d5886"
+  },
+  "title": {
+    "uz": "Korxonalarga soliq solishni tayyorlash",
+    "ru": "Приготовление налогообложения предприятий",
+    "eng": "Business Tax Preparation"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c221db02e19450d5880"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c221db02e19450d5887"
+  },
+  "title": {
+    "uz": "Kompyuter ta'mirlash",
+    "ru": "Ремонт компьютера",
+    "eng": "Computer Repair"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c221db02e19450d5880"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c221db02e19450d5888"
+  },
+  "title": {
+    "uz": "Shartnomalar bo'yicha advokat",
+    "ru": "Адвокат по договорам",
+    "eng": "Contracts Attorney"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c221db02e19450d5880"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c221db02e19450d5889"
+  },
+  "title": {
+    "uz": "Korporativ huquqlar bo'yicha advokat",
+    "ru": "Адвокат по корпоративному праву",
+    "eng": "Corporate Law Attorney"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c221db02e19450d5880"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c221db02e19450d588a"
+  },
+  "title": {
+    "uz": "Sud tarjimoni",
+    "ru": "Присяжный переводчик",
+    "eng": "Court Interpreting"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c221db02e19450d5880"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c221db02e19450d588b"
+  },
+  "title": {
+    "uz": "Jinoiy ishlar bo'yicha advokat",
+    "ru": "Адвокат по уголовным делам",
+    "eng": "Criminal Defense Attorney"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c221db02e19450d5880"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c221db02e19450d588c"
+  },
+  "title": {
+    "uz": "Yo'l harakati qoidalari bo'yicha advokat",
+    "ru": "Адвокаты по дорожным правилам",
+    "eng": "DUI Attorney"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c221db02e19450d5880"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c221db02e19450d588d"
+  },
+  "title": {
+    "uz": "Ma'lumotni tiklash xizmati",
+    "ru": "Служба восстановления данных",
+    "eng": "Data Recovery Service"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c221db02e19450d5880"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c221db02e19450d588e"
+  },
+  "title": {
+    "uz": "Nogironlik bo'yicha advokat (inson huquqlari)",
+    "ru": "Адвокат по инвалидности (по правам человека)",
+    "eng": "Disability Attorney"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c221db02e19450d5880"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c221db02e19450d588f"
+  },
+  "title": {
+    "uz": "Ajrim ishlari bo'yicha advokat",
+    "ru": "Адвокат по разводам",
+    "eng": "Divorce Attorney"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c221db02e19450d5880"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c221db02e19450d5890"
+  },
+  "title": {
+    "uz": "Elektron tijorat bo'yicha konsalting",
+    "ru": "Консултация по электронной торговле",
+    "eng": "E-commerce Consulting"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c221db02e19450d5880"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c221db02e19450d5891"
+  },
+  "title": {
+    "uz": "Elektron mashinalarni ta'mirlash",
+    "ru": "Ремонт электронных машин",
+    "eng": "Electronic Machine Repair"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c221db02e19450d5880"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c221db02e19450d5892"
+  },
+  "title": {
+    "uz": "Muhandislik dizayni",
+    "ru": "Инженерно-технический дизайн",
+    "eng": "Engineering and Technical Design"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c221db02e19450d5880"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c221db02e19450d5893"
+  },
+  "title": {
+    "uz": "Ko'chmas mulk bo'yicha advokat",
+    "ru": "Адвокат по недвижимости",
+    "eng": "Estate Attorney"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c221db02e19450d5880"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c221db02e19450d5894"
+  },
+  "title": {
+    "uz": "Sport jihozlarini ta'mirlash",
+    "ru": "Ремонт тренажерных пренадлежностей",
+    "eng": "Exercise Equipment Repair"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c221db02e19450d5880"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c221db02e19450d5895"
+  },
+  "title": {
+    "uz": "Oilaviy ishlar bo'yicha advokat",
+    "ru": "Адвокат по семейным делам",
+    "eng": "Family Law Attorney"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c221db02e19450d5880"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c221db02e19450d5896"
+  },
+  "title": {
+    "uz": "Genealogiya (nasl haqida ma'lumot)",
+    "ru": "Генеалогия (Родословие)",
+    "eng": "Genealogy"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c221db02e19450d5880"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c221db02e19450d5897"
+  },
+  "title": {
+    "uz": "Grafika dizayni",
+    "ru": "Графический дизайн",
+    "eng": "Graphic Design"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c221db02e19450d5880"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c221db02e19450d5898"
+  },
+  "title": {
+    "uz": "Illustratsiya (Art)",
+    "ru": "Иллюстрация (Арт)",
+    "eng": "Illustrating"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c221db02e19450d5880"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c221db02e19450d5899"
+  },
+  "title": {
+    "uz": "Immigratsiya bo'yicha advokat",
+    "ru": "Адвокат по иммиграционным делам",
+    "eng": "Immigration Attorney"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c221db02e19450d5880"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c221db02e19450d589a"
+  },
+  "title": {
+    "uz": "Soliq hujjatlarini tayyorlash (jismoniy shaxs)",
+    "ru": "Подготовка налоговых документов (Индивидуальная)",
+    "eng": "Individual Tax Preparation"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c221db02e19450d5880"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c221db02e19450d589b"
+  },
+  "title": {
+    "uz": "Intellektual mulk bo'yicha advokat (mualliflik huquqi)",
+    "ru": "Адвокат по интеллектуальной собственности",
+    "eng": "Intellectual Property Attorney"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c221db02e19450d5880"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c221db02e19450d589c"
+  },
+  "title": {
+    "uz": "Xalqaro huquqlar bo'yicha yurist",
+    "ru": "Адвокат по международному праву",
+    "eng": "International Law Attorney"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c221db02e19450d5880"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c221db02e19450d589d"
+  },
+  "title": {
+    "uz": "Mehnat va bandlik bo'yicha advokat",
+    "ru": "Адвокат труда и занятости",
+    "eng": "Labor and Employment Attorney"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c221db02e19450d5880"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c221db02e19450d589e"
+  },
+  "title": {
+    "uz": "Huquqiy hujjatlarni tayyorlash",
+    "ru": "Подготовка юридических документов",
+    "eng": "Legal Document Preparation"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c221db02e19450d5880"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c221db02e19450d58a0"
+  },
+  "title": {
+    "uz": "Marketing xizmatlari",
+    "ru": "Маркетинговые услуги",
+    "eng": "Marketing"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c221db02e19450d5880"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c221db02e19450d58a1"
+  },
+  "title": {
+    "uz": "Meditatsiya",
+    "ru": "Медитация",
+    "eng": "Mediation"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c221db02e19450d5880"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c221db02e19450d58a2"
+  },
+  "title": {
+    "uz": "Mobil dizayn",
+    "ru": "Мобильный дизайн",
+    "eng": "Mobile Design"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c221db02e19450d5880"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c221db02e19450d58a3"
+  },
+  "title": {
+    "uz": "Notarius (notarial tasdiqlash)",
+    "ru": "Нотариус (Нотариальное засвидетельствование)",
+    "eng": "Notarization"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c221db02e19450d5880"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c221db02e19450d58a4"
+  },
+  "title": {
+    "uz": "Buxgalteriya xizmatlari",
+    "ru": "Бухгалтерские услуги",
+    "eng": "Payroll Services"
+  },
+  "imageUrl": "images/services/1601551221239-unnamed-(2).jpg",
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c221db02e19450d5880"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c221db02e19450d58a5"
+  },
+  "title": {
+    "uz": "Bankrotlik bo'yicha advokat",
+    "ru": "Личный адвокат по банкротству",
+    "eng": "Personal Bankruptcy Attorney"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c221db02e19450d5880"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c221db02e19450d58a6"
+  },
+  "title": {
+    "uz": "Moliyaviy rejalashtiruv mutahhasisi",
+    "ru": "специалист по финансовому планированию",
+    "eng": "Personal Financial Planning"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c221db02e19450d5880"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c221db02e19450d58a7"
+  },
+  "title": {
+    "uz": "Jarohatlar bo'yicha advokat",
+    "ru": "адвокат по делам о телесных повреждениях",
+    "eng": "Personal Injury Attorney"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c221db02e19450d5880"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c221db02e19450d58a8"
+  },
+  "title": {
+    "uz": "Telefon va planshetni ta'mirlash",
+    "ru": "Ремонт телефона и планшета",
+    "eng": "Phone & Tablet Repair"
+  },
+  "imageUrl": null,
+  "keywords": [
+    "Phone or Tablet Repair",
+    "Ремонт телефона или планшета",
+    "Telefon yoki planshetni ta'mirlash"
+  ],
+  "category": {
+    "$oid": "5f1e1c221db02e19450d5880"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c221db02e19450d58a9"
+  },
+  "title": {
+    "uz": "Taqdimot dizayni (ishlanmasi va dizayni)",
+    "ru": "Дизайн презентации (разработка и оформление)",
+    "eng": "Presentation Design"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c221db02e19450d5880"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c221db02e19450d58aa"
+  },
+  "title": {
+    "uz": "Printerlarni ta'mirlash",
+    "ru": "Ремонт принтеров",
+    "eng": "Printer and Copier Repair"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c221db02e19450d5880"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c221db02e19450d58ab"
+  },
+  "title": {
+    "uz": "Xususiy detektivlar",
+    "ru": "Частные детективы",
+    "eng": "Private Investigation"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c221db02e19450d5880"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c221db02e19450d58ac"
+  },
+  "title": {
+    "uz": "Loyiha boshqaruvi",
+    "ru": "Управление проектом",
+    "eng": "Project Management"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c221db02e19450d5880"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c221db02e19450d58ad"
+  },
+  "title": {
+    "uz": "Jamoatchilik bilan ishlash (PR)",
+    "ru": "Пиар менеджер",
+    "eng": "Public Relations"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c221db02e19450d5880"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c221db02e19450d58ae"
+  },
+  "title": {
+    "uz": "Ko'chmas mulk bo'yicha advokat",
+    "ru": "Адвокат по недвижимости",
+    "eng": "Real Estate Attorney"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c221db02e19450d5880"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c221db02e19450d58af"
+  },
+  "title": {
+    "uz": "Hodim yollash (Jalb qilish)",
+    "ru": "Рекрутинг (Привлечение)",
+    "eng": "Recruiting"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c221db02e19450d5880"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c221db02e19450d58b0"
+  },
+  "title": {
+    "uz": "Rezyume yaratish",
+    "ru": "Составление резюме",
+    "eng": "Resume Writing"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c221db02e19450d5880"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c221db02e19450d58b1"
+  },
+  "title": {
+    "uz": "Xavfsizlik va qo'riqlash xizmati",
+    "ru": "Служба безопасности и охраны",
+    "eng": "Security and Body Guard Services"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c221db02e19450d5880"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c221db02e19450d58b2"
+  },
+  "title": {
+    "uz": "Media Marketing",
+    "ru": "Маркетинг в области СМИ",
+    "eng": "Social Media Marketing"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c221db02e19450d5880"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c231db02e19450d58b3"
+  },
+  "title": {
+    "uz": "Dasturiy ta'minotni ishlab chiqish",
+    "ru": "Разработка программного обеспечения",
+    "eng": "Software Development"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c221db02e19450d5880"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c231db02e19450d58b4"
+  },
+  "title": {
+    "uz": "Statistik ma'lumotlarning tahlili",
+    "ru": "Статистический анализ данных",
+    "eng": "Statistical Data Analysis"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c221db02e19450d5880"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c231db02e19450d58b5"
+  },
+  "title": {
+    "uz": "Soliq bo'yicha advokat (vakil)",
+    "ru": "Адвокат по налоговым делам",
+    "eng": "Tax Attorney"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c221db02e19450d5880"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c231db02e19450d58b6"
+  },
+  "title": {
+    "uz": "Telemarketing va online savdo",
+    "ru": "Услуги телемаркетинга и продажа по телефону",
+    "eng": "Telemarketing and Telesales Services"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c221db02e19450d5880"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c231db02e19450d58b7"
+  },
+  "title": {
+    "uz": "Yo'l harakati qoidalari bo'yicha advokat",
+    "ru": "Адвокат по праву дорожного движения",
+    "eng": "Traffic Law Attorney"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c221db02e19450d5880"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c231db02e19450d58b8"
+  },
+  "title": {
+    "uz": "Tarjima xizmatlari",
+    "ru": "Переводы",
+    "eng": "Translation"
+  },
+  "imageUrl": "images/services/1601551058882-image-20151005-28758-eto47.jpg",
+  "keywords": [
+    "tarjimon"
+  ],
+  "category": {
+    "$oid": "5f1e1c221db02e19450d5880"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c231db02e19450d58b9"
+  },
+  "title": {
+    "uz": "Kopyuterdan viruslarni tozalash xizmati",
+    "ru": "Услуги по удалению вирусов из компьютера",
+    "eng": "Virus Removal Services"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c221db02e19450d5880"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c231db02e19450d58ba"
+  },
+  "title": {
+    "uz": "Veb - dizayn",
+    "ru": "Веб-дизайн",
+    "eng": "Web Design"
+  },
+  "imageUrl": "images/services/1601556386551-Amacue-web-design.jpg",
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c221db02e19450d5880"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c231db02e19450d58bb"
+  },
+  "title": {
+    "uz": "Veb - hosting xizmatlari",
+    "ru": "Веб хостинг (Услуги)",
+    "eng": "Web Hosting"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c221db02e19450d5880"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c231db02e19450d58bc"
+  },
+  "title": {
+    "uz": "Ko'chmas mulkni tarqatish va vasiyatni tuzish",
+    "ru": "Составления завещаний и распоряжения недвижимостью",
+    "eng": "Wills and Estate Planning"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c221db02e19450d5880"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c231db02e19450d58bd"
+  },
+  "title": {
+    "uz": "Yozish va tahrirlash xizmatlari",
+    "ru": "Услуги написания и редактирования",
+    "eng": "Writing and Editing Services"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c221db02e19450d5880"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c231db02e19450d58be"
+  },
+  "title": {
+    "uz": "Rezyume yozish",
+    "ru": "Написания резюме",
+    "eng": "Resume Writing"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c221db02e19450d5880"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c5b1db02e19450d58c0"
+  },
+  "title": {
+    "uz": "Audio jihozlarni ijaraga olish",
+    "ru": "Аренда звуковое оборудование",
+    "eng": "AV Equipment Rental for Events"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c5b1db02e19450d58bf"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c5b1db02e19450d58c1"
+  },
+  "title": {
+    "uz": "Aerofotosurat",
+    "ru": "Аэрофотосъемка",
+    "eng": "Aerial Photography"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c5b1db02e19450d58bf"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c5b1db02e19450d58c2"
+  },
+  "title": {
+    "uz": "Kiyimni tikish va dizayn",
+    "ru": "Переделка, пошив и дизайн одежды",
+    "eng": "Alterations, Tailoring, and Clothing Design"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c5b1db02e19450d58bf"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c5b1db02e19450d58c3"
+  },
+  "title": {
+    "uz": "Hayvonlar ishtirokidagi ko'ngilochar namoyish",
+    "ru": "Развлекательный шоу животных",
+    "eng": "Animal Show Entertainment"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c5b1db02e19450d58bf"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c5b1db02e19450d58c4"
+  },
+  "title": {
+    "uz": "Ovoz yozish",
+    "ru": "Аудио запись",
+    "eng": "Audio Recording"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c5b1db02e19450d58bf"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c5b1db02e19450d58c5"
+  },
+  "title": {
+    "uz": "Sharlar yordamida bezatish",
+    "ru": "Декорация воздушными шарами",
+    "eng": "Balloon Decorations"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c5b1db02e19450d58bf"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c5b1db02e19450d58c6"
+  },
+  "title": {
+    "uz": "Barbekyu va grill xizmati",
+    "ru": "Барбекю и гриль сервис",
+    "eng": "Barbecue and Grill Services"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c5b1db02e19450d58bf"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c5b1db02e19450d58c7"
+  },
+  "title": {
+    "uz": "Barmen (Bufetchi)",
+    "ru": "Бармен",
+    "eng": "Bartending"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c5b1db02e19450d58bf"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c5b1db02e19450d58c8"
+  },
+  "title": {
+    "uz": "To'y stilisti",
+    "ru": "Свадебный стилист",
+    "eng": "Bridal Stylist"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c5b1db02e19450d58bf"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c5b1db02e19450d58c9"
+  },
+  "title": {
+    "uz": "Xattotlik - aniq va chiroyli qo'l yozuvi bilan yozish san'ati",
+    "ru": "Каллиграфия - Искусство писать чётким, красивым почерком",
+    "eng": "Calligraphy"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c5b1db02e19450d58bf"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c5b1db02e19450d58ca"
+  },
+  "title": {
+    "uz": "Karikatura - kulgili rasmlar",
+    "ru": "Карикатура - Комические рисунки",
+    "eng": "Caricaturing"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c5b1db02e19450d58bf"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c5b1db02e19450d58cb"
+  },
+  "title": {
+    "uz": "Avtobus ijarasi",
+    "ru": "Аренда чартерного автобуса",
+    "eng": "Charter Bus Rental"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c5b1db02e19450d58bf"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c5b1db02e19450d58cc"
+  },
+  "title": {
+    "uz": "Sirk namoyishi",
+    "ru": "Цирковое представление",
+    "eng": "Circus Entertainment"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c5b1db02e19450d58bf"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c5b1db02e19450d58cd"
+  },
+  "title": {
+    "uz": "Klounlar shousi",
+    "ru": "Шоу клоунов",
+    "eng": "Clown Entertainment"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c5b1db02e19450d58bf"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c5b1db02e19450d58ce"
+  },
+  "title": {
+    "uz": "Komedik namoyishlar",
+    "ru": "Комедийные представления",
+    "eng": "Comedy Entertainment"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c5b1db02e19450d58bf"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c5b1db02e19450d58cf"
+  },
+  "title": {
+    "uz": "Tijorat fotosuratlari",
+    "ru": "Коммерческая фотосъёмки",
+    "eng": "Commercial Photography"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c5b1db02e19450d58bf"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c5b1db02e19450d58d0"
+  },
+  "title": {
+    "uz": "Sahnalashtirilgan (Kostyumlar bilan) tomoshalar",
+    "ru": "Костюмированные представления",
+    "eng": "Costumed Character Entertainment"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c5b1db02e19450d58bf"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c5b1db02e19450d58d1"
+  },
+  "title": {
+    "uz": "DJ",
+    "ru": "Диджей",
+    "eng": "DJ"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c5b1db02e19450d58bf"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c5b1db02e19450d58d2"
+  },
+  "title": {
+    "uz": "Raqs dasturlari",
+    "ru": "Танцевальные программы",
+    "eng": "Dance Entertainment"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c5b1db02e19450d58bf"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c5b1db02e19450d58d3"
+  },
+  "title": {
+    "uz": "Naqshli to'qish san'ati",
+    "ru": "Вышивание",
+    "eng": "Embroidery"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c5b1db02e19450d58bf"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c5b1db02e19450d58d4"
+  },
+  "title": {
+    "uz": "To'ydan oldingi fotosessiya (Unashtiruv)",
+    "ru": "Предсвадебная фотосессия (Помолвка)",
+    "eng": "Engagement Photography"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c5b1db02e19450d58bf"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c5b1db02e19450d58d5"
+  },
+  "title": {
+    "uz": "To'y floristi",
+    "ru": "Свадебный флорист",
+    "eng": "Event Florist"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c5b1db02e19450d58bf"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c5b1db02e19450d58d6"
+  },
+  "title": {
+    "uz": "Tadbir ishtirokchilari va xizmat ko'rsatuvchi hodimlar",
+    "ru": "Сотрудники (работники) мероприятия и обслуживающий персонал",
+    "eng": "Event Help and Wait Staff"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c5b1db02e19450d58bf"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c5b1db02e19450d58d7"
+  },
+  "title": {
+    "uz": "Tadbirlarni rejalashtirish (tashkiliy ishlar)",
+    "ru": "Планирование мероприятий (Организация)",
+    "eng": "Event Planning"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c5b1db02e19450d58bf"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c5b1db02e19450d58d8"
+  },
+  "title": {
+    "uz": "Tadbir xavfsizligi xizmati",
+    "ru": "Услуги беезопасности мероприятия",
+    "eng": "Event Security & Bouncer Services"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c5b1db02e19450d58bf"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c5b1db02e19450d58d9"
+  },
+  "title": {
+    "uz": "Yuzni bo'yash (bo'yanish)",
+    "ru": "Разукрашивание лица (Гримирование)",
+    "eng": "Face Painting"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c5b1db02e19450d58bf"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c5b1db02e19450d58da"
+  },
+  "title": {
+    "uz": "Baliq ovlash bo'yicha ko'rsatma",
+    "ru": "Услуги гида по рыбалке",
+    "eng": "Fishing Trip Guide Services"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c5b1db02e19450d58bf"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c5b1db02e19450d58db"
+  },
+  "title": {
+    "uz": "Oziq-ovqat yuk mashinalari yoki aravachalar xizmati",
+    "ru": "Продовольственный Грузовик или Услуги Тележки",
+    "eng": "Food Truck or Cart Services"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c5b1db02e19450d58bf"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c5b1db02e19450d58dc"
+  },
+  "title": {
+    "uz": "O'yin avtomat mashinalari va attraksionlarni ijaraga olish",
+    "ru": "Аренда игровых автоматов и аттракционов",
+    "eng": "Games and Concession Rental"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c5b1db02e19450d58bf"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c5b1db02e19450d58dd"
+  },
+  "title": {
+    "uz": "Sochni bo'yash",
+    "ru": "Окрашивание волос",
+    "eng": "Hair Coloring and Highlights"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c5b1db02e19450d58bf"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c5b1db02e19450d58de"
+  },
+  "title": {
+    "uz": "Xedshot uslubida fotosessiya",
+    "ru": "Фотосъемка (стиль Хедшот)",
+    "eng": "Headshot Photography"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c5b1db02e19450d58bf"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c5b1db02e19450d58df"
+  },
+  "title": {
+    "uz": "Xna bilan bezak berish",
+    "ru": "Татуировка хной (Нанесение)",
+    "eng": "Henna Tattooing"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c5b1db02e19450d58bf"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c5b1db02e19450d58e0"
+  },
+  "title": {
+    "uz": "Zargarlik xizmatlari",
+    "ru": "Ювелирные услуги",
+    "eng": "Jewelry Services"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c5b1db02e19450d58bf"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c5b1db02e19450d58e1"
+  },
+  "title": {
+    "uz": "Karaoke jihozlarining ijara xizmati",
+    "ru": "Прокат караоке-машин (оборудование)",
+    "eng": "Karaoke Machine Rental"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c5b1db02e19450d58bf"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c5c1db02e19450d58e2"
+  },
+  "title": {
+    "uz": "Limuzin va haydovchi xizmati",
+    "ru": "Лимузин и шофер Сервис",
+    "eng": "Limousine and Chauffeur Services"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c5b1db02e19450d58bf"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c5c1db02e19450d58e3"
+  },
+  "title": {
+    "uz": "Tadbirlarda o'rtakash va musiqiy chiqish xizmatlari",
+    "ru": "Ведущие и Музыкальные услуги на мероприятиях",
+    "eng": "MC and Host Services"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c5b1db02e19450d58bf"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c5c1db02e19450d58e4"
+  },
+  "title": {
+    "uz": "Sehrgar (Fokuschi)",
+    "ru": "Фокусник",
+    "eng": "Magician"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c5b1db02e19450d58bf"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c5c1db02e19450d58e5"
+  },
+  "title": {
+    "uz": "Motivatsion ma'ruzalar (ommaviy nutqlar)",
+    "ru": "Мотивационные доклады (Ораторские выступления)",
+    "eng": "Motivational Speaking"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c5b1db02e19450d58bf"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c5c1db02e19450d58e6"
+  },
+  "title": {
+    "uz": "Musiqiy kompaniyalar (studiyalar)",
+    "ru": "Музыкальные компании (Студии)",
+    "eng": "Music Entertainment"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c5b1db02e19450d58bf"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c5c1db02e19450d58e7"
+  },
+  "title": {
+    "uz": "Tabiat fotosuratlari",
+    "ru": "Фотосъёмки природы",
+    "eng": "Nature Photography"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c5b1db02e19450d58bf"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c5c1db02e19450d58e8"
+  },
+  "title": {
+    "uz": "Avtobuslar ijarasi",
+    "ru": "Прокат автобусов",
+    "eng": "Party Bus Rental"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c5b1db02e19450d58bf"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c5c1db02e19450d58e9"
+  },
+  "title": {
+    "uz": "Qandolat mahsulotlari va shirinliklar tayyorlash xizmatlari",
+    "ru": "Услуги кондитера и приготовления тортов",
+    "eng": "Pastry Chef and Cake Making Services"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c5b1db02e19450d58bf"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c5c1db02e19450d58ea"
+  },
+  "title": {
+    "uz": "Shaxsiy oshpaz",
+    "ru": "Личный повар",
+    "eng": "Personal Chef"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c5b1db02e19450d58bf"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c5c1db02e19450d58eb"
+  },
+  "title": {
+    "uz": "Uy hayvonlarini suratga olish",
+    "ru": "Фотограф домашных животных",
+    "eng": "Pet Photography"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c5b1db02e19450d58bf"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c5c1db02e19450d58ec"
+  },
+  "title": {
+    "uz": "Fotosuratlar kabinasi ijarasi",
+    "ru": "Аренда фотобудки",
+    "eng": "Photo Booth Rental"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c5b1db02e19450d58bf"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c5c1db02e19450d58ed"
+  },
+  "title": {
+    "uz": "Fotosuratlarni tahrirlash, skanerlash va tiklash",
+    "ru": "Редактирование фотографий, сканирование и восстановление",
+    "eng": "Photo Editing, Scanning and Restoration"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c5b1db02e19450d58bf"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c5c1db02e19450d58ee"
+  },
+  "title": {
+    "uz": "Portret san'ati (fotosurat)",
+    "ru": "Портретное искусство (фотография)",
+    "eng": "Portrait Artistry"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c5b1db02e19450d58bf"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c5c1db02e19450d58ef"
+  },
+  "title": {
+    "uz": "Portret uslubidagi fotosuratlar",
+    "ru": "Портретная фотография",
+    "eng": "Portrait Photography"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c5b1db02e19450d58bf"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c5c1db02e19450d58f0"
+  },
+  "title": {
+    "uz": "Patchwork va Crochet uslubida tikiv va to'qish",
+    "ru": "Лоскутное шитье и вязание крючком",
+    "eng": "Quilting and Crochet"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c5b1db02e19450d58bf"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c5c1db02e19450d58f1"
+  },
+  "title": {
+    "uz": "Ko'chmas mulkning fotosuratlari",
+    "ru": "Архитектурная фотосъемка недвижимости",
+    "eng": "Real Estate and Architectural Photography"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c5b1db02e19450d58bf"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c5c1db02e19450d58f2"
+  },
+  "title": {
+    "uz": "Scrapbooking (Fotoalbom dizayni)",
+    "ru": "Скрапбукинг (Оформление фотоальбомов)",
+    "eng": "Scrapbooking"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c5b1db02e19450d58bf"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c5c1db02e19450d58f3"
+  },
+  "title": {
+    "uz": "Kuylovchi telegramma (Ovozli sovg'a)",
+    "ru": "Поющая телеграмма",
+    "eng": "Singing Telegram"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c5b1db02e19450d58bf"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c5c1db02e19450d58f4"
+  },
+  "title": {
+    "uz": "Sommelier xizmatlari va darslari",
+    "ru": "Услуги и уроки сомелье",
+    "eng": "Sommelier Services & Lessons"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c5b1db02e19450d58bf"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c5c1db02e19450d58f5"
+  },
+  "title": {
+    "uz": "Qo'shiq matnini yozish",
+    "ru": "Написания песен (авторство)",
+    "eng": "Songwriting"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c5b1db02e19450d58bf"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c5c1db02e19450d58f6"
+  },
+  "title": {
+    "uz": "Sport uslubidagi fotosuratlar",
+    "ru": "Спортивная фотография",
+    "eng": "Sports Photography"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c5b1db02e19450d58bf"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c5c1db02e19450d58f7"
+  },
+  "title": {
+    "uz": "Vaqtinchalik tatuirovka",
+    "ru": "Временная татуировка",
+    "eng": "Temporary Tattoo Artistry"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c5b1db02e19450d58bf"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c5c1db02e19450d58f8"
+  },
+  "title": {
+    "uz": "Sayyohlik agentliklari xizmatlari",
+    "ru": "Услуги туристического агентства",
+    "eng": "Travel Agency Services"
+  },
+  "imageUrl": "images/services/1601553905976-33330_32282_1_RbBwF9pMlxQm45cVjDch4w_960x720.jpeg",
+  "keywords": [
+    "tur agentstva"
+  ],
+  "category": {
+    "$oid": "5f1e1c5b1db02e19450d58bf"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c5c1db02e19450d58f9"
+  },
+  "title": {
+    "uz": "Avtoturargoh xizmati",
+    "ru": "Услуга парковки",
+    "eng": "Valet Parking"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c5b1db02e19450d58bf"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c5c1db02e19450d58fa"
+  },
+  "title": {
+    "uz": "Qo'g'irchoqli o'yin-kulgi namoyishlari",
+    "ru": "Чревовещатель и Кукольные Развлечения",
+    "eng": "Ventriloquist & Puppet Entertainment"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c5b1db02e19450d58bf"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c5c1db02e19450d58fb"
+  },
+  "title": {
+    "uz": "Videokamera ijarasi",
+    "ru": "Прокат видеокамер",
+    "eng": "Video Booth Rental"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c5b1db02e19450d58bf"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c5c1db02e19450d58fc"
+  },
+  "title": {
+    "uz": "Video montaj xizmati",
+    "ru": "Редактирование видео (монтаж)",
+    "eng": "Video Editing"
+  },
+  "imageUrl": "images/services/1601553276902-0bbcbae417ef81bbf7a74391024e53af.jpeg",
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c5b1db02e19450d58bf"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c5c1db02e19450d58fd"
+  },
+  "title": {
+    "uz": "Video ishlab chiqarish",
+    "ru": "Производство видеороликов",
+    "eng": "Video Production"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c5b1db02e19450d58bf"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c5c1db02e19450d58fe"
+  },
+  "title": {
+    "uz": "Video oqimlari va veb-translyatsiya xizmatlari",
+    "ru": "Услуги потокового видео и веб-трансляции",
+    "eng": "Video Streaming and Webcasting Services"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c5b1db02e19450d58bf"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c5c1db02e19450d58ff"
+  },
+  "title": {
+    "uz": "Imidj bo'yicha maslahat",
+    "ru": "Имидж консалтинг",
+    "eng": "Wardrobe Consulting"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c5b1db02e19450d58bf"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c5c1db02e19450d5900"
+  },
+  "title": {
+    "uz": "To'y uchun tortlar",
+    "ru": "Свадебные торты",
+    "eng": "Wedding Cakes"
+  },
+  "imageUrl": "images/services/1601553441060-wedding-cakes-dfw-tx.jpg",
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c5b1db02e19450d58bf"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c5c1db02e19450d5901"
+  },
+  "title": {
+    "uz": "To'y koordinatori (tashkillashtiruvchi)",
+    "ru": "Свадебный координатор",
+    "eng": "Wedding Coordination"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c5b1db02e19450d58bf"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c5c1db02e19450d5902"
+  },
+  "title": {
+    "uz": "Raqs darslari (to'y uchun)",
+    "ru": "Уроки свадебного танца",
+    "eng": "Wedding Dance Lessons"
+  },
+  "imageUrl": "images/services/1601554046355-cb8053708164b0d07bc19e50fd486ea8.jpg",
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c5b1db02e19450d58bf"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c5c1db02e19450d5903"
+  },
+  "title": {
+    "uz": "To'y floristi",
+    "ru": "Свадебный Флорист",
+    "eng": "Wedding Florist"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c5b1db02e19450d58bf"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c5c1db02e19450d5904"
+  },
+  "title": {
+    "uz": "To'ylarda diniy marosim uchun hodimlar (domla, ruhoniy va boshqa)",
+    "ru": "Cвященник (совершающий богослужение) на свадьбах",
+    "eng": "Wedding Officiant"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c5b1db02e19450d58bf"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c5c1db02e19450d5905"
+  },
+  "title": {
+    "uz": "To'yni rejalashtirish",
+    "ru": "Организация (Планирования) свадьбы",
+    "eng": "Wedding Planning"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c5b1db02e19450d58bf"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c5c1db02e19450d5906"
+  },
+  "title": {
+    "uz": "To'y va tadbirlarni tashkillashtirish",
+    "ru": "Организация свадеб и мероприятий",
+    "eng": "Wedding and Event Catering"
+  },
+  "imageUrl": "images/services/1601554676328-Corporate-Event-Decor.jpg",
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c5b1db02e19450d58bf"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c5c1db02e19450d5907"
+  },
+  "title": {
+    "uz": "To'y va tadbirlarni yasatish, bezatish",
+    "ru": "Оформление свадеб и мероприятий",
+    "eng": "Wedding and Event Decorating"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c5b1db02e19450d58bf"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c5c1db02e19450d5908"
+  },
+  "title": {
+    "uz": "To'y va oqshomlar uchun soch turmagi",
+    "ru": "Свадебная и вечерняя прическа",
+    "eng": "Wedding and Event Hair Styling"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c5b1db02e19450d58bf"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c5c1db02e19450d5909"
+  },
+  "title": {
+    "uz": "To'y va tadbirlar uchun taklifnomalar",
+    "ru": "Пригласительные на свадьбу и мероприятий",
+    "eng": "Wedding and Event Invitations"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c5b1db02e19450d58bf"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c5c1db02e19450d590a"
+  },
+  "title": {
+    "uz": "To'y va boshqa tadbirlar uchun vizajist",
+    "ru": "Визажист для свадеб и других мероприятий",
+    "eng": "Wedding and Event Makeup"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c5b1db02e19450d58bf"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c5c1db02e19450d590b"
+  },
+  "title": {
+    "uz": "To'y va tadbirlar uchun fotograf",
+    "ru": "Фотограф для свадеб и мероприятий",
+    "eng": "Wedding and Event Photography"
+  },
+  "imageUrl": "images/services/1601553619879-41-6y4a5630.jpg",
+  "keywords": [
+    "toy",
+    "tuy"
+  ],
+  "category": {
+    "$oid": "5f1e1c5b1db02e19450d58bf"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c5c1db02e19450d590c"
+  },
+  "title": {
+    "uz": "To'y va tadbirlar o'tkazish uchun joylar ijarasi",
+    "ru": "Аренда мест для проведения свадеб и других мероприятий",
+    "eng": "Wedding and Event Venue Rental"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c5b1db02e19450d58bf"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c5c1db02e19450d590d"
+  },
+  "title": {
+    "uz": "To'y va tadbirlar uchun video xizmatlari",
+    "ru": "Видеография свадеб и мероприятий",
+    "eng": "Wedding and Event Videography"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c5b1db02e19450d58bf"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1c5c1db02e19450d590e"
+  },
+  "title": {
+    "uz": "Vino ta'mini ta'tib ko'rish va sayohat uchun takliflar",
+    "ru": "Дегустация вин и туры",
+    "eng": "Wine Tastings and Tours"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c5b1db02e19450d58bf"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1cd01db02e19450d5910"
+  },
+  "title": {
+    "uz": "Aktyorlik mahorati darslari",
+    "ru": "Уроки актерского мастерства",
+    "eng": "Acting Lessons"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1cd01db02e19450d590f"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1cd01db02e19450d5912"
+  },
+  "title": {
+    "uz": "Audio ishlab chiqarish darslari \r\n",
+    "ru": "Уроки аудио производства",
+    "eng": "Audio Production Lessons"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1cd01db02e19450d590f"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1cd01db02e19450d5913"
+  },
+  "title": {
+    "uz": "Dutor darslari",
+    "ru": "Уроки лютни / дутара",
+    "eng": "Lute / Dutar Lessons"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1cd01db02e19450d590f"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1cd01db02e19450d5914"
+  },
+  "title": {
+    "uz": "Beysbol darslari",
+    "ru": "Уроки бейсбола",
+    "eng": "Baseball Lessons"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1cd01db02e19450d590f"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1cd01db02e19450d5915"
+  },
+  "title": {
+    "uz": "Basketbol darslari",
+    "ru": "Уроки баскетбола",
+    "eng": "Basketball Lessons"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1cd01db02e19450d590f"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1cd01db02e19450d5916"
+  },
+  "title": {
+    "uz": "Reanimatsion va birinchi (tez) yordam ko'rsatish",
+    "ru": "CPR и навыки оказания первой помощи",
+    "eng": "CPR and First Aid Training"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1cd01db02e19450d590f"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1cd01db02e19450d5917"
+  },
+  "title": {
+    "uz": "Violonchel kurslari",
+    "ru": "Уроки виолончели",
+    "eng": "Cello Lessons"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1cd01db02e19450d590f"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1cd01db02e19450d5918"
+  },
+  "title": {
+    "uz": "Shaxmat kurslari",
+    "ru": "Шахматные уроки",
+    "eng": "Chess Lessons"
+  },
+  "imageUrl": "images/services/1601554973698-chess-pieces-1.jpg",
+  "keywords": [
+    "shahmt",
+    "shahmat",
+    "shahmit"
+  ],
+  "category": {
+    "$oid": "5f1e1cd01db02e19450d590f"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1cd01db02e19450d5919"
+  },
+  "title": {
+    "uz": "Kompyuter kurslari",
+    "ru": "Компьютерные уроки",
+    "eng": "Computer Lessons"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1cd01db02e19450d590f"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1cd01db02e19450d591a"
+  },
+  "title": {
+    "uz": "Rassomchilik kurslari",
+    "ru": "Уроки рисования",
+    "eng": "Drawing Lessons"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1cd01db02e19450d590f"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1cd01db02e19450d591b"
+  },
+  "title": {
+    "uz": "Haydovchilik kurslari",
+    "ru": "Уроки вождения",
+    "eng": "Driving Lessons"
+  },
+  "imageUrl": "images/services/1601555208941-1_0x10_790x510_0x520_things_your_driving_instructor_never_taught_you.jpg",
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1cd01db02e19450d590f"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1cd01db02e19450d591c"
+  },
+  "title": {
+    "uz": "Baraban kurslari",
+    "ru": "Уроки барабана",
+    "eng": "Drum Lessons"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1cd01db02e19450d590f"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1cd01db02e19450d591d"
+  },
+  "title": {
+    "uz": "Ingliz tili kurslari (Mustahkamlangan)",
+    "ru": "ESL (английский как второй язык) уроки",
+    "eng": "ESL (English as a Second Language) Lessons"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1cd01db02e19450d590f"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1cd01db02e19450d591e"
+  },
+  "title": {
+    "uz": "Fleyta kurslari",
+    "ru": "Уроки флейты",
+    "eng": "Flute Lessons"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1cd01db02e19450d590f"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1cd01db02e19450d591f"
+  },
+  "title": {
+    "uz": "Fransuz tili kurslari",
+    "ru": "Уроки французского",
+    "eng": "French Lessons"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1cd01db02e19450d590f"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1cd01db02e19450d5920"
+  },
+  "title": {
+    "uz": "Nemis tili kurslari",
+    "ru": "Уроки немецкого",
+    "eng": "German Lessons"
+  },
+  "imageUrl": "images/services/1602665236859-kursy-nemetskogo-yazyka-Nikolaev.jpg",
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1cd01db02e19450d590f"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1cd01db02e19450d5921"
+  },
+  "title": {
+    "uz": "Golf kurslari",
+    "ru": "Уроки гольфа",
+    "eng": "Golf Lessons"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1cd01db02e19450d590f"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1cd01db02e19450d5922"
+  },
+  "title": {
+    "uz": "Grafiklar dizayni instruktori",
+    "ru": "Инструктор по графическому дизайну",
+    "eng": "Graphic Design Instructor"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1cd01db02e19450d590f"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1cd01db02e19450d5923"
+  },
+  "title": {
+    "uz": "Gitara kurslari",
+    "ru": "Уроки гитары",
+    "eng": "Guitar Lessons"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1cd01db02e19450d590f"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1cd01db02e19450d5924"
+  },
+  "title": {
+    "uz": "Italian tili kurslari",
+    "ru": "Уроки итальянского",
+    "eng": "Italian Lessons"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1cd01db02e19450d590f"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1cd01db02e19450d5925"
+  },
+  "title": {
+    "uz": "Yapon tili kurslari",
+    "ru": "Уроки японского",
+    "eng": "Japanese Lessons"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1cd01db02e19450d590f"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1cd01db02e19450d5926"
+  },
+  "title": {
+    "uz": "Koreys tili kurslari",
+    "ru": "Уроки корейского",
+    "eng": "Korean Lessons"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1cd01db02e19450d590f"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1cd01db02e19450d5927"
+  },
+  "title": {
+    "uz": "Bo'yanish mahorati darslari",
+    "ru": "Уроки мастерства макияжа",
+    "eng": "Makeup Artistry Lessons"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1cd01db02e19450d590f"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1cd01db02e19450d5928"
+  },
+  "title": {
+    "uz": "Xitoy tili kurslari",
+    "ru": "Уроки китайского",
+    "eng": "Mandarin Lessons"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1cd01db02e19450d590f"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1cd01db02e19450d5929"
+  },
+  "title": {
+    "uz": "Matematika kurslari",
+    "ru": "Репетиторство по математике",
+    "eng": "Math Tutoring"
+  },
+  "imageUrl": "images/services/1602226583315-unnamed.jpg",
+  "keywords": [
+    "репетитор",
+    "repetitor"
+  ],
+  "category": {
+    "$oid": "5f1e1cd01db02e19450d590f"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1cd01db02e19450d592a"
+  },
+  "title": {
+    "uz": "Meditatsiya bo'yicha ko'rsatmalar",
+    "ru": "Инструкция по медитации",
+    "eng": "Meditation Instruction"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1cd01db02e19450d590f"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1cd01db02e19450d592b"
+  },
+  "title": {
+    "uz": "Musiqa bo'yicha darslar",
+    "ru": "Уроки Теории Музыки",
+    "eng": "Music Theory Lessons"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1cd01db02e19450d590f"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1cd01db02e19450d592c"
+  },
+  "title": {
+    "uz": "Rassomchilik darslari",
+    "ru": "Уроки рисования",
+    "eng": "Painting Lessons"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1cd01db02e19450d590f"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1cd01db02e19450d592d"
+  },
+  "title": {
+    "uz": "Fotograflik kurslari",
+    "ru": "Уроки фотографии",
+    "eng": "Photography Lessons"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1cd01db02e19450d590f"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1cd01db02e19450d592e"
+  },
+  "title": {
+    "uz": "Fortepiano kurslari",
+    "ru": "Уроки игры на фортепиано",
+    "eng": "Piano Lessons"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1cd01db02e19450d590f"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1cd01db02e19450d592f"
+  },
+  "title": {
+    "uz": "Fortepiano ta'mirlash",
+    "ru": "Настройка фортепиано",
+    "eng": "Piano Tuning"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1cd01db02e19450d590f"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1cd01db02e19450d5930"
+  },
+  "title": {
+    "uz": "Portugal tili kurslari",
+    "ru": "Уроки португальского",
+    "eng": "Portuguese Lessons"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1cd01db02e19450d590f"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1cd01db02e19450d5931"
+  },
+  "title": {
+    "uz": "Oshpazlik kurslari (yakka tartibda)",
+    "ru": "Частные уроки кулинарии",
+    "eng": "Private Cooking Lessons"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1cd01db02e19450d590f"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1cd01db02e19450d5932"
+  },
+  "title": {
+    "uz": "Raqs darslari (yakka tartibda)",
+    "ru": "Частные уроки танцев",
+    "eng": "Private Dance Lessons"
+  },
+  "imageUrl": "images/services/1601555876068-Brampton-Ontario-Dance-Studios-Hiring-Dance-Instructors-GTA-Dance-Teaching-Jobs-Positions-Available-for-Toronto-Dance-Teachers.jpg",
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1cd01db02e19450d590f"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1cd01db02e19450d5933"
+  },
+  "title": {
+    "uz": "Ot minish kursi (yakka tartibda)",
+    "ru": "Частные уроки верховой езды",
+    "eng": "Private Horseback Riding Lessons"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1cd01db02e19450d590f"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1cd11db02e19450d5934"
+  },
+  "title": {
+    "uz": "O'zini himoya qilish kursi",
+    "ru": "Частные уроки самообороны",
+    "eng": "Private Self Defense Lessons"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1cd01db02e19450d590f"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1cd11db02e19450d5935"
+  },
+  "title": {
+    "uz": "Suzish kursi (yakka tartibda)",
+    "ru": "Частные уроки плавания",
+    "eng": "Private Swim Lessons"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1cd01db02e19450d590f"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1cd11db02e19450d5936"
+  },
+  "title": {
+    "uz": "Tennis kursi (yakka tartibda)",
+    "ru": "Частная теннисная инструкция",
+    "eng": "Private Tennis Instruction"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1cd01db02e19450d590f"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1cd11db02e19450d5937"
+  },
+  "title": {
+    "uz": "Ommaviy nutq so'zlash bo'yicha darslar",
+    "ru": "Уроки публичных выступлений",
+    "eng": "Public Speaking Lessons"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1cd01db02e19450d590f"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1cd11db02e19450d5938"
+  },
+  "title": {
+    "uz": "O'qish va yozish kurslari",
+    "ru": "Чтение и письмо",
+    "eng": "Reading and Writing Tutoring"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1cd01db02e19450d590f"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1cd11db02e19450d5939"
+  },
+  "title": {
+    "uz": "Saksofon darsi",
+    "ru": "Уроки саксофона",
+    "eng": "Saxophone Lessons"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1cd01db02e19450d590f"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1cd11db02e19450d593a"
+  },
+  "title": {
+    "uz": "Ilmiy ishlar bo'yicha murabbiylik",
+    "ru": "Репетиторство",
+    "eng": "Science Tutoring"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1cd01db02e19450d590f"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1cd11db02e19450d593b"
+  },
+  "title": {
+    "uz": "Tikuvchilik darsi",
+    "ru": "Уроки шитья",
+    "eng": "Sewing Lessons"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1cd01db02e19450d590f"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1cd11db02e19450d593c"
+  },
+  "title": {
+    "uz": "Ishoralar tili kursi",
+    "ru": "Уроки языка жестов",
+    "eng": "Sign Language Lessons"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1cd01db02e19450d590f"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1cd11db02e19450d593d"
+  },
+  "title": {
+    "uz": "Qo'shiqchilik darslari",
+    "ru": "Уроки пения",
+    "eng": "Singing Lessons"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1cd01db02e19450d590f"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1cd11db02e19450d593e"
+  },
+  "title": {
+    "uz": "Futbol to'garagi",
+    "ru": "Уроки футбола",
+    "eng": "Soccer Lessons"
+  },
+  "imageUrl": "images/services/1601556271125-K66A0465.jpg",
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1cd01db02e19450d590f"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1cd11db02e19450d593f"
+  },
+  "title": {
+    "uz": "Itimoiy fanlar bo'yicha kurs",
+    "ru": "Репетиторство по общественным наукам",
+    "eng": "Social sciences tutoring"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1cd01db02e19450d590f"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1cd11db02e19450d5940"
+  },
+  "title": {
+    "uz": "Ispan tili kurslari",
+    "ru": "Уроки испанского",
+    "eng": "Spanish Lessons"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1cd01db02e19450d590f"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1cd11db02e19450d5941"
+  },
+  "title": {
+    "uz": "Skripka darslari",
+    "ru": "Уроки скрипки",
+    "eng": "Violin Lessons"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1cd01db02e19450d590f"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1cd11db02e19450d5942"
+  },
+  "title": {
+    "uz": "Ovoz berish va dublyaj darslari",
+    "ru": "Уроки дубляжа и озвучивания",
+    "eng": "Voice Over Lessons"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1cd01db02e19450d590f"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1cd11db02e19450d5943"
+  },
+  "title": {
+    "uz": "Volleybol kurslari",
+    "ru": "Уроки волейбола",
+    "eng": "Volleyball Lessons"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1cd01db02e19450d590f"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1d011db02e19450d5945"
+  },
+  "title": {
+    "uz": "Zamonaviy rassomchilik kurslari",
+    "ru": "Аэрография / Живопись",
+    "eng": "Custom Airbrushing"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1d011db02e19450d5944"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1d011db02e19450d5946"
+  },
+  "title": {
+    "uz": "Naqqoshlk",
+    "ru": "Вышивка",
+    "eng": "Embroidery"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1d011db02e19450d5944"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1d011db02e19450d5947"
+  },
+  "title": {
+    "uz": "O'ymakorlik",
+    "ru": "Гравюра",
+    "eng": "Engraving"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1d011db02e19450d5944"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1d011db02e19450d5948"
+  },
+  "title": {
+    "uz": "Portret san'ati",
+    "ru": "Портретное искусство",
+    "eng": "Portrait Artistry"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1d011db02e19450d5944"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1d011db02e19450d5949"
+  },
+  "title": {
+    "uz": "Dekorativ bezak berish",
+    "ru": "Скрапбукинг",
+    "eng": "Scrapbooking"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1d011db02e19450d5944"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1d011db02e19450d594a"
+  },
+  "title": {
+    "uz": "Buyurtmaga qo'shiq yozish",
+    "ru": "Написание песен на заказ",
+    "eng": "Songwriting"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1d011db02e19450d5944"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1d2e1db02e19450d594c"
+  },
+  "title": {
+    "uz": "Animatsiya",
+    "ru": "Анимация",
+    "eng": "Animation"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1d2e1db02e19450d594b"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1d2e1db02e19450d594d"
+  },
+  "title": {
+    "uz": "Injener muhandislik dizayni",
+    "ru": "Инженерно-технический дизайн",
+    "eng": "Engineering and Technical Design"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1d2e1db02e19450d594b"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1d2e1db02e19450d594e"
+  },
+  "title": {
+    "uz": "Grafik dizayn",
+    "ru": "Графический дизайн",
+    "eng": "Graphic Design"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1d2e1db02e19450d594b"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1d2e1db02e19450d594f"
+  },
+  "title": {
+    "uz": "Rasm (Illyustratsiya)",
+    "ru": "иллюстрация",
+    "eng": "Illustration"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1d2e1db02e19450d594b"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1d2e1db02e19450d5950"
+  },
+  "title": {
+    "uz": "Logo dizayn",
+    "ru": "Дизайн логотипа",
+    "eng": "Logo Design"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1d2e1db02e19450d594b"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1d2e1db02e19450d5951"
+  },
+  "title": {
+    "uz": "Taqdimotlar dizayni",
+    "ru": "Дизайн презентации",
+    "eng": "Presentation Design"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1d2e1db02e19450d594b"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1d2e1db02e19450d5952"
+  },
+  "title": {
+    "uz": "Dasturiy ta'minotni ishlab chiqish \r\n",
+    "ru": "Разработка программного обеспечения",
+    "eng": "Software Development"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1d2e1db02e19450d594b"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1d691db02e19450d5954"
+  },
+  "title": {
+    "uz": "Huquqshunoslik xizmati",
+    "ru": "Юридические услуги",
+    "eng": "Contracts Attorney"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1d691db02e19450d5953"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1d691db02e19450d5955"
+  },
+  "title": {
+    "uz": "Korporativ ishlar bo'yicha advokat",
+    "ru": "Адвокат по корпоративному праву",
+    "eng": "Corporate Law Attorney"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1d691db02e19450d5953"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1d691db02e19450d5956"
+  },
+  "title": {
+    "uz": "Sud ishlari bo'yicha tarjimonlik xizmati",
+    "ru": "Судебный перевод",
+    "eng": "Court Interpreting"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1d691db02e19450d5953"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1d691db02e19450d5957"
+  },
+  "title": {
+    "uz": "Nogironlik bo'yicha advokat",
+    "ru": "Адвокат по инвалидности",
+    "eng": "Disability Attorney"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1d691db02e19450d5953"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1d691db02e19450d5958"
+  },
+  "title": {
+    "uz": "Mulk bo'yicha advokat",
+    "ru": "Адвокат по недвижимости",
+    "eng": "Estate Attorney"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1d691db02e19450d5953"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1d691db02e19450d5959"
+  },
+  "title": {
+    "uz": "Immigratsiya ishlari bo'yicha advokat",
+    "ru": "Иммиграционный адвокат",
+    "eng": "Immigration Attorney"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1d691db02e19450d5953"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1d691db02e19450d595a"
+  },
+  "title": {
+    "uz": "Intellektual mulk bo'yicha advokat",
+    "ru": "Адвокат по интеллектуальной собственности",
+    "eng": "Intellectual Property Attorney"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1d691db02e19450d5953"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1d691db02e19450d595b"
+  },
+  "title": {
+    "uz": "Xalqaro huquqshunoslik bo'yicha advokat",
+    "ru": "Адвокат по международному праву",
+    "eng": "International Law Attorney"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1d691db02e19450d5953"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1d691db02e19450d595c"
+  },
+  "title": {
+    "uz": "Mehnat va bandlik bo'yicha advokat",
+    "ru": "Адвокат труда и занятости",
+    "eng": "Labor and Employment Attorney"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1d691db02e19450d5953"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1d691db02e19450d595d"
+  },
+  "title": {
+    "uz": "Huquqiy hujjatlar bo'yicha advokat",
+    "ru": "Подготовка юридического документа",
+    "eng": "Legal Document Preparation"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1d691db02e19450d5953"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1d691db02e19450d595e"
+  },
+  "title": {
+    "uz": "Shaxsiy shikastlanishlar bo'yicha advokat",
+    "ru": "Адвокат по личным травмам",
+    "eng": "Personal Injury Attorney"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1d691db02e19450d5953"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1d691db02e19450d595f"
+  },
+  "title": {
+    "uz": "Ko'chmas mulk bo'yicha advokat",
+    "ru": "Адвокат по недвижимости",
+    "eng": "Real Estate Attorney"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1d691db02e19450d5953"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1d691db02e19450d5960"
+  },
+  "title": {
+    "uz": "Soliq bo'yicha advokat maslahati",
+    "ru": "Юридическая консультация по налогам",
+    "eng": "Tax Attorney"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1d691db02e19450d5953"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1d691db02e19450d5961"
+  },
+  "title": {
+    "uz": "Yo'l harakati qoidalari bo'yicha advokat",
+    "ru": "Адвокат по праву дорожного движения",
+    "eng": "Traffic Law Attorney"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1d691db02e19450d5953"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1d691db02e19450d5962"
+  },
+  "title": {
+    "uz": "Mulk va merosni taqsimlash bo'yicha advokat",
+    "ru": "Адвокат по завещанию, наследству и распределению имущества",
+    "eng": "Wills and Estate Planning"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1d691db02e19450d5953"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1d851db02e19450d5964"
+  },
+  "title": {
+    "uz": "Oilaviy ishlar bo'yicha maslahat",
+    "ru": "Семейное консультирование",
+    "eng": "Family Counseling"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1d851db02e19450d5963"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1d851db02e19450d5965"
+  },
+  "title": {
+    "uz": "Hayotiy murabbiy",
+    "ru": "Лайф Коучинг",
+    "eng": "Life Coaching"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1d851db02e19450d5963"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1d851db02e19450d5966"
+  },
+  "title": {
+    "uz": "Ma'naviy maslahat",
+    "ru": "Духовное консультирование",
+    "eng": "Spiritual Counseling"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1d851db02e19450d5963"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1d851db02e19450d5967"
+  },
+  "title": {
+    "uz": "Moda stilisti / Go'zallik bo'yicha mutaxassis",
+    "ru": "Стилист моды / Специалист по красоте",
+    "eng": "Wardrobe Consulting"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1d851db02e19450d5963"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1d9f1db02e19450d5969"
+  },
+  "title": {
+    "uz": "AeroFoto suratga olish",
+    "ru": "Аэрофотосъемка",
+    "eng": "Aerial Photography"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1d9f1db02e19450d5968"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1d9f1db02e19450d596a"
+  },
+  "title": {
+    "uz": "Buduar stilidagi suratga olish",
+    "ru": "Фотосъемки (стиль Будуар)",
+    "eng": "Boudoir Photography"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1d9f1db02e19450d5968"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1d9f1db02e19450d596b"
+  },
+  "title": {
+    "uz": "Tijorat sotosurat",
+    "ru": "Коммерческая фотография",
+    "eng": "Commercial Photography"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1d9f1db02e19450d5968"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1d9f1db02e19450d596c"
+  },
+  "title": {
+    "uz": "To'y uchun suratga olish",
+    "ru": "Свадебная фотография",
+    "eng": "Engagement Photography"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1d9f1db02e19450d5968"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1d9f1db02e19450d596d"
+  },
+  "title": {
+    "uz": "Portfolio fotosurat",
+    "ru": "Портфолио",
+    "eng": "Headshot Photography"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1d9f1db02e19450d5968"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1d9f1db02e19450d596e"
+  },
+  "title": {
+    "uz": "Tabiat fotosuratlari",
+    "ru": "Фотография природы",
+    "eng": "Nature Photography"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1d9f1db02e19450d5968"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1d9f1db02e19450d596f"
+  },
+  "title": {
+    "uz": "Oilaviy fotosuratlar",
+    "ru": "Домашняя фотография",
+    "eng": "Pet Photography"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1d9f1db02e19450d5968"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1d9f1db02e19450d5970"
+  },
+  "title": {
+    "uz": "Portret turdagi fotosuratlar",
+    "ru": "Портретная фотография",
+    "eng": "Portrait Photography"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1d9f1db02e19450d5968"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1d9f1db02e19450d5971"
+  },
+  "title": {
+    "uz": "Sport fotosuratlari",
+    "ru": "Спортивная фотография",
+    "eng": "Sports Photography"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1d9f1db02e19450d5968"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1d9f1db02e19450d5972"
+  },
+  "title": {
+    "uz": "Video tahrirlash",
+    "ru": "Редактирование видео",
+    "eng": "Video Editing"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1d9f1db02e19450d5968"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1dbb1db02e19450d5974"
+  },
+  "title": {
+    "uz": "Maishiy texnika jihozlarini o'rnatish",
+    "ru": "Установка бытовой техники",
+    "eng": "Appliance Installation"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1dbb1db02e19450d5973"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1dbb1db02e19450d5975"
+  },
+  "title": {
+    "uz": "Kompyuter ta'mirlash xizmati",
+    "ru": "Ремонт компьютера",
+    "eng": "Computer Repair"
+  },
+  "imageUrl": "images/services/1601557337449-computer-repair-services-miami.jpg",
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1dbb1db02e19450d5973"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1dbb1db02e19450d5976"
+  },
+  "title": {
+    "uz": "Shaxsiy kompyuterdagi ma'lumotlarni qayta tiklash",
+    "ru": "Восстановление данных на ПК",
+    "eng": "Data Recovery Service"
+  },
+  "imageUrl": "images/services/1601557067064-6.jpg",
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1dbb1db02e19450d5973"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1dbb1db02e19450d5977"
+  },
+  "title": {
+    "uz": "Jismoniy anjomlarni ta'mirlash",
+    "ru": "Ремонт тренажеров",
+    "eng": "Exercise Equipment Repair"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1dbb1db02e19450d5973"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1dbb1db02e19450d5978"
+  },
+  "title": {
+    "uz": "Tarmoqlarga xizmat ko'rsatish",
+    "ru": "Сервисное обслуживание сети",
+    "eng": "Network Support Services"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1dbb1db02e19450d5973"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1dbb1db02e19450d5979"
+  },
+  "title": {
+    "uz": "Telefon yoki planshet ta'mirlash",
+    "ru": "Ремонт телефона или планшета",
+    "eng": "Phone or Tablet Repair"
+  },
+  "imageUrl": "images/services/1601557424009-shutterstock_275208287-1024x681.jpg",
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1dbb1db02e19450d5973"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1dbb1db02e19450d597a"
+  },
+  "title": {
+    "uz": "Bilyard stolini ta'mirlash",
+    "ru": "Ремонт Бильярдный стол",
+    "eng": "Pool Table Repair Services"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1dbb1db02e19450d5973"
+  }
+},{
+  "_id": {
+    "$oid": "5f1e1dbb1db02e19450d597b"
+  },
+  "title": {
+    "uz": "Printer va Nusxa ko'chiruvchi mashinani ta'mirlash",
+    "ru": "Ремонт принтера и копировальной машины",
+    "eng": "Printer and Copier Repair"
+  },
+  "imageUrl": "images/services/1601557539773-PrinterRepair.jpg",
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1dbb1db02e19450d5973"
+  }
+},{
+  "_id": {
+    "$oid": "5f2d244ba4dd9705aacf6a43"
+  },
+  "title": {
+    "uz": "Payvandchi",
+    "ru": "Сварщик",
+    "eng": "Welder"
+  },
+  "imageUrl": null,
+  "keywords": [
+    "сваршик"
+  ],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f2d45a2a4dd9705aacf6a45"
+  },
+  "title": {
+    "uz": "Konditsionerlarni ta'mirlash va texnik xizmat ko'rsatish",
+    "ru": "Ремонт и обслуживание кондиционеров",
+    "eng": "AC Maintenance and Repair"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f43816e2263ff3190e8dc12"
+  },
+  "title": {
+    "uz": "Jalyuzi o'rnatish",
+    "ru": "Установка Жалюзи",
+    "eng": "Blind and Shade Installation"
+  },
+  "imageUrl": null,
+  "keywords": [
+    "blind",
+    "blind and shade installation",
+    "jalyuzi o'rnatish",
+    "установка жалюзи"
+  ],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f43a3422263ff3190e8dc31"
+  },
+  "title": {
+    "uz": "Chivinga qarshi to'r",
+    "ru": "Москитная сетка",
+    "eng": "Mosquito net"
+  },
+  "imageUrl": null,
+  "keywords": [
+    "oynaga setka"
+  ],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f51f2d151c5f3311ecf7229"
+  },
+  "title": {
+    "uz": "Polimer mahsulotlari",
+    "ru": "Полимерние изделия",
+    "eng": "Polymer products"
+  },
+  "imageUrl": null,
+  "keywords": [
+    "qora truba",
+    "qora turba"
+  ],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f53334351c5f3311ecf726c"
+  },
+  "title": {
+    "uz": "Yozgi oshxona",
+    "ru": "Летняя кухня",
+    "eng": "Summer cuisine"
+  },
+  "imageUrl": null,
+  "keywords": [
+    "letniy kuxnya"
+  ],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f535f6a51c5f3311ecf727c"
+  },
+  "title": {
+    "uz": "Bruschatka va Granit plintus (sokol)",
+    "ru": "Брусчатка и Гранитная цоколь",
+    "eng": "Paving stones and granite plinth"
+  },
+  "imageUrl": "images/services/1603446730312-photo_2020-10-23_14-45-44.jpg",
+  "keywords": [
+    "bruschatka",
+    "bruscatka",
+    "sokil",
+    "sokl",
+    "сокол",
+    "сокл"
+  ],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f549f5451c5f3311ecf72c0"
+  },
+  "title": {
+    "uz": "To'y va marosimlar uchun mashina xizmati",
+    "ru": "Автосервис для свадеб и церемоний",
+    "eng": "Car service for weddings and ceremonies"
+  },
+  "imageUrl": null,
+  "keywords": [
+    "korteyj"
+  ],
+  "category": {
+    "$oid": "5f1e1c5b1db02e19450d58bf"
+  }
+},{
+  "_id": {
+    "$oid": "5f54c5af51c5f3311ecf72f4"
+  },
+  "title": {
+    "uz": "Yuklarni tashish va Yetkazib berish xizmati",
+    "ru": "Служба грузоперевозок и доставки",
+    "eng": "Cargo transportation and Delivery service"
+  },
+  "imageUrl": null,
+  "keywords": [
+    "dostavka",
+    "yuk tashish"
+  ],
+  "category": {
+    "$oid": "5f1e1c221db02e19450d5880"
+  }
+},{
+  "_id": {
+    "$oid": "5f5dd87d51c5f3311ecf73dd"
+  },
+  "title": {
+    "uz": "Ovoz berish xizmati",
+    "ru": "Услуга озвучки",
+    "eng": "Voiceover service"
+  },
+  "imageUrl": "images/services/1601551597090-mobile-slider.jpg",
+  "keywords": [
+    "озвучка",
+    "ozvuchka"
+  ],
+  "category": {
+    "$oid": "5f1e1c221db02e19450d5880"
+  }
+},{
+  "_id": {
+    "$oid": "5f69c33b51c5f3311ecf7532"
+  },
+  "title": {
+    "uz": "Umumiy ishlar bo'yicha Advokat",
+    "ru": "Адвокат по общим делам",
+    "eng": "General affairs lawyer"
+  },
+  "imageUrl": null,
+  "keywords": [
+    "advokat"
+  ],
+  "category": {
+    "$oid": "5f1e1d691db02e19450d5953"
+  }
+},{
+  "_id": {
+    "$oid": "5f6ae6ce51c5f3311ecf7569"
+  },
+  "title": {
+    "uz": "Reklama uchun foto va video tahrirlash va uni yaratish xizmatlari",
+    "ru": "Услуги редактирования и создания фото и видео для рекламы",
+    "eng": "Photo and video editing and creation services for advertising"
+  },
+  "imageUrl": null,
+  "keywords": [
+    "reklama uchun",
+    "video rolik"
+  ],
+  "category": {
+    "$oid": "5f1e1c221db02e19450d5880"
+  }
+},{
+  "_id": {
+    "$oid": "5f6b3b7551c5f3311ecf7597"
+  },
+  "title": {
+    "uz": "Alukobondni o'rnatish",
+    "ru": "Монтаж Алюкобонд",
+    "eng": "Installation Alukobond"
+  },
+  "imageUrl": null,
+  "keywords": [
+    "alyukabond"
+  ],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f6c51cd51c5f3311ecf75c7"
+  },
+  "title": {
+    "uz": "Fasad ishlari va xizmatlari",
+    "ru": "Фасадные работы и услуги",
+    "eng": "Facade works and services"
+  },
+  "imageUrl": null,
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f6d854f51c5f3311ecf760f"
+  },
+  "title": {
+    "uz": "Sauna va hammom qurilishi",
+    "ru": "Строительство Сауны и Бани",
+    "eng": "Sauna and Bath construction"
+  },
+  "imageUrl": null,
+  "keywords": [
+    "hommom",
+    "хоммом"
+  ],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f6dde2751c5f3311ecf764b"
+  },
+  "title": {
+    "uz": "Velosipedni ta'mirlash",
+    "ru": "Ремонт велосипедов",
+    "eng": "Repair of bicycles"
+  },
+  "imageUrl": "images/services/1601557208554-joel-working-0065-1579013157.jpg",
+  "keywords": [
+    "velsiped tuzatish",
+    "veli tuzatish"
+  ],
+  "category": {
+    "$oid": "5f1e1dbb1db02e19450d5973"
+  }
+},{
+  "_id": {
+    "$oid": "5f74743251c5f3311ecf7708"
+  },
+  "title": {
+    "uz": "Yong'in signalizatsiyasi va videokuzatuvni o'rnatish",
+    "ru": "Установка пожарной охранной сигнализации и видеонаблюдения",
+    "eng": "Installation of fire alarm and video surveillance"
+  },
+  "imageUrl": "images/services/1601467641700-CommPact_Kit_with_VUpoint_0.jpg",
+  "keywords": [
+    "videokamera",
+    "kamera",
+    "pojarniy signalizatsiya"
+  ],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f76dc6e51c5f3311ecf7790"
+  },
+  "title": {
+    "uz": "Oyna ichida sharshara",
+    "ru": "Водопады на стекле",
+    "eng": "Waterfalls on glass"
+  },
+  "imageUrl": "images/services/1601629252193-unnamed-(3).jpg",
+  "keywords": [
+    "oynali sharshara"
+  ],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f77013451c5f3311ecf779d"
+  },
+  "title": {
+    "uz": "Yumshoq mebellarni tiklash va qoplash",
+    "ru": "Реставрация и обивка мягкой мебели",
+    "eng": "Restoration and upholstery of upholstered furniture"
+  },
+  "imageUrl": "images/services/1601635183528-restavraciya-myagkoj-mebeli-osobennosti-i-pravila-vypolneniya-raboty.jpg",
+  "keywords": [
+    "divan",
+    "kreslo",
+    "kresla",
+    "кресло",
+    "restavratsiya"
+  ],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f79780951c5f3311ecf77cb"
+  },
+  "title": {
+    "uz": "Burchak, burchakli divan yeg'iladigan buyurtma asosida",
+    "ru": "Уголок, Угловой диван раскладной на заказ",
+    "eng": "Corner, Corner sofa folding custom-made"
+  },
+  "imageUrl": "images/services/1601797051284-g_1812_160-1500x1000.jpg",
+  "keywords": [
+    "ugolok",
+    "raskladnoy",
+    "uglovoy"
+  ],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f7ac05b51c5f3311ecf77ea"
+  },
+  "title": {
+    "uz": "Elektrli pol isitgichni o'rnatish",
+    "ru": "Монтаж электрического теплого пола",
+    "eng": "Installation of electric underfloor heating"
+  },
+  "imageUrl": "images/services/1601880314408-Warmup-underfloor-heating-installation.jpg",
+  "keywords": [
+    "elektricheskiy tyopliy pol",
+    "elektricheskiy topliy pol"
+  ],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f7aec8f51c5f3311ecf77f1"
+  },
+  "title": {
+    "uz": "Reklama va poligrafiya xizmatlari va texnik xizmat ko'rsatish",
+    "ru": "Рекламные и полиграфические услуги и обслуживания",
+    "eng": "Advertising and printing services and maintenance"
+  },
+  "imageUrl": "images/services/1601891897325-57e10a37ea7121f8ea4b283da6d4d43b.jpg",
+  "keywords": [
+    "narujniy reklama",
+    "наружный реклама",
+    "poligrafiya"
+  ],
+  "category": {
+    "$oid": "5f1e1c221db02e19450d5880"
+  }
+},{
+  "_id": {
+    "$oid": "5f7c03ee51c5f3311ecf785a"
+  },
+  "title": {
+    "uz": "Chillerni o'rnatish va texnik xizmat ko'rsatish",
+    "ru": "Монтаж чиллера и техническое обслуживание",
+    "eng": "Chiller installation and maintenance"
+  },
+  "imageUrl": "images/services/1601963144806-chiller.jpg",
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1c221db02e19450d5880"
+  }
+},{
+  "_id": {
+    "$oid": "5f7d68b851c5f3311ecf78c5"
+  },
+  "title": {
+    "uz": "Karniz o'rnatish",
+    "ru": "Установка Карнизов",
+    "eng": "Installation of Cornices"
+  },
+  "imageUrl": "images/services/1602054609251-ustanovka-karnizov-dlya-shtor1.jpg",
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f7d903451c5f3311ecf78f0"
+  },
+  "title": {
+    "uz": "Qandilni o'rnatish",
+    "ru": "Установка люстра",
+    "eng": "Chandelier installation"
+  },
+  "imageUrl": "images/services/1602064781593-Хрустальная-люстра---установке-в-Буско-Здрой_bz8.jpg",
+  "keywords": [
+    "lyustra o'rnatish"
+  ],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f7d9c3d51c5f3311ecf78f4"
+  },
+  "title": {
+    "uz": "Interkomlarni ta'mirlash va o'rnatish",
+    "ru": "Ремонт и установка домофонов",
+    "eng": "Repair and installation of intercoms"
+  },
+  "imageUrl": "images/services/1602067964564-services-buzzer-min.jpg",
+  "keywords": [
+    "damafon",
+    "domofon",
+    "дамафон"
+  ],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f7ee61d51c5f3311ecf7931"
+  },
+  "title": {
+    "uz": "Mahsus kiyim (Uniforma)",
+    "ru": "Спецодежда",
+    "eng": "Uniform"
+  },
+  "imageUrl": "images/services/1602152606173-004-Must-an-employer-provide-an-employee-with-an-overall-or-garments-free-of-charge-and-by-when.jpg",
+  "keywords": [
+    "юниформа",
+    "yuniforma"
+  ],
+  "category": {
+    "$oid": "5f1e1c221db02e19450d5880"
+  }
+},{
+  "_id": {
+    "$oid": "5f80153b51c5f3311ecf7960"
+  },
+  "title": {
+    "uz": "Fizika darsi (Fizika bo'yicha repetitorlik)",
+    "ru": "Репетиторство по физике ",
+    "eng": "Physics Tutoring"
+  },
+  "imageUrl": "images/services/1602229599030-physics-basics-laws-equation-classroom-education.jpg",
+  "keywords": [
+    "repetitor",
+    "репетитор"
+  ],
+  "category": {
+    "$oid": "5f1e1cd01db02e19450d590f"
+  }
+},{
+  "_id": {
+    "$oid": "5f840aed51c5f3311ecf79bf"
+  },
+  "title": {
+    "uz": "Arab tili darslari",
+    "ru": "Уроки арабского",
+    "eng": "Arabic lessons"
+  },
+  "imageUrl": "images/services/1602489267388-arabic_class.jpg",
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1cd01db02e19450d590f"
+  }
+},{
+  "_id": {
+    "$oid": "5f840c7551c5f3311ecf79c0"
+  },
+  "title": {
+    "uz": "Rus tili bo'yicha repetitiorlar",
+    "ru": "Репетиторы русского языка",
+    "eng": "Russian language tutors"
+  },
+  "imageUrl": "images/services/1602491836304-russian-language.jpg",
+  "keywords": [],
+  "category": {
+    "$oid": "5f1e1cd01db02e19450d590f"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ec29ee0ebe5240bf2c406"
+  },
+  "title": {
+    "uz": "Gaz qozonlarini ta'mirlash va texnik xizmat ko'rsatish",
+    "ru": "Ремонт и обслуживание газовых котлов",
+    "eng": "Repair and maintenance of gas boilers"
+  },
+  "imageUrl": "images/services/1603191612831-Boiler-layers-3-(2).jpg",
+  "keywords": [
+    "katyol",
+    "profilaktika"
+  ],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f8fe80de0ebe5240bf2c42c"
+  },
+  "title": {
+    "uz": "Strich ship (Natijnoy potolok)",
+    "ru": "Натяжной потолок",
+    "eng": "Stretch ceiling"
+  },
+  "imageUrl": "images/services/1603270745521-unnamed.jpg",
+  "keywords": [
+    "натижной"
+  ],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+},{
+  "_id": {
+    "$oid": "5f96818ee0ebe5240bf2c55e"
+  },
+  "title": {
+    "uz": "Plitka terish",
+    "ru": "Укладка плитки",
+    "eng": "Laying tiles"
+  },
+  "imageUrl": "images/services/1603699109574-tiling.jpg",
+  "keywords": [
+    "kafel",
+    "кафел"
+  ],
+  "category": {
+    "$oid": "5f1e1aa11db02e19450d577c"
+  }
+}]

@@ -1,0 +1,181 @@
+[{
+    "_id": {
+      "$oid": "5f1e1aa11db02e19450d577c"
+    },
+    "title": {
+      "eng": "Home Improvement",
+      "uz": "Uyni takomillashtirish",
+      "ru": "Улучшение дома"
+    },
+    "description_ru": "",
+    "description_uz": "",
+    "description_eng": "",
+    "iconType": "home/filled",
+    "imageUrl": "images/categories/1597843150700-topx-tashkent-professional-specialist.jpg",
+    "showMain": true
+  },{
+    "_id": {
+      "$oid": "5f1e1b6c1db02e19450d5861"
+    },
+    "title": {
+      "eng": "Wellness",
+      "uz": "Salomatlik",
+      "ru": "Здоровье"
+    },
+    "description_ru": "",
+    "description_uz": "",
+    "description_eng": "",
+    "iconType": "heart/filled",
+    "imageUrl": "images/categories/1601452986891-5d829e61e00a1355597e7ae306f13ea5.jpg",
+    "showMain": false
+  },{
+    "_id": {
+      "$oid": "5f1e1bcf1db02e19450d5875"
+    },
+    "title": {
+      "eng": "Pets",
+      "uz": "Uy hayvonlari",
+      "ru": "Домашние питомцы"
+    },
+    "description_ru": "",
+    "description_uz": "",
+    "description_eng": "",
+    "iconType": "shop/fileld",
+    "imageUrl": "images/categories/1601454351778-Final-Front-Page-Image.png",
+    "showMain": false
+  },{
+    "_id": {
+      "$oid": "5f1e1c221db02e19450d5880"
+    },
+    "title": {
+      "eng": "Business",
+      "uz": "Biznes xizmatlari",
+      "ru": "Бизнес-услуги"
+    },
+    "description_ru": "",
+    "description_uz": "",
+    "description_eng": "",
+    "iconType": "fund/fileld",
+    "imageUrl": "images/categories/1601454585057-Business-Services.jpg",
+    "showMain": true
+  },{
+    "_id": {
+      "$oid": "5f1e1c5b1db02e19450d58bf"
+    },
+    "title": {
+      "eng": "Events",
+      "uz": "Tadbirlar",
+      "ru": "Мероприятия"
+    },
+    "description_ru": "",
+    "description_uz": "",
+    "description_eng": "",
+    "iconType": "calendar/filled",
+    "imageUrl": "images/categories/1601453903214-csm_Food-Zuerich-c-David-Biedert-2640_36bb06f0e1_f08c5e58ec.jpg",
+    "showMain": true
+  },{
+    "_id": {
+      "$oid": "5f1e1cd01db02e19450d590f"
+    },
+    "title": {
+      "eng": "Lessons",
+      "uz": "Kurslar",
+      "ru": "Занятия"
+    },
+    "description_ru": "",
+    "description_uz": "",
+    "description_eng": "",
+    "iconType": "read/filled",
+    "imageUrl": "images/categories/1601454163567-teaching-header-image.jpg",
+    "showMain": true
+  },{
+    "_id": {
+      "$oid": "5f1e1d011db02e19450d5944"
+    },
+    "title": {
+      "eng": "Crafts",
+      "uz": "Mahorat darslari",
+      "ru": "Мастерство"
+    },
+    "description_ru": "",
+    "description_uz": "",
+    "description_eng": "",
+    "iconType": "book/fileld",
+    "imageUrl": "images/categories/1601459454516-Craftsman-Book-(2).jpg",
+    "showMain": false
+  },{
+    "_id": {
+      "$oid": "5f1e1d2e1db02e19450d594b"
+    },
+    "title": {
+      "eng": "Design and web",
+      "uz": "Veb dizayn",
+      "ru": "Дизайн и веб"
+    },
+    "description_ru": "",
+    "description_uz": "",
+    "description_eng": "",
+    "iconType": "play-square/fileld",
+    "imageUrl": "images/categories/1601452234884-Amacue-web-design.jpg",
+    "showMain": false
+  },{
+    "_id": {
+      "$oid": "5f1e1d691db02e19450d5953"
+    },
+    "title": {
+      "eng": "Legal",
+      "uz": "Huquqiy ishlar",
+      "ru": "Юридические дела"
+    },
+    "description_ru": "",
+    "description_uz": "",
+    "description_eng": "",
+    "iconType": "read/filled",
+    "imageUrl": "images/categories/1601459644615-collection_0000_Layer-4-(2).jpg",
+    "showMain": false
+  },{
+    "_id": {
+      "$oid": "5f1e1d851db02e19450d5963"
+    },
+    "title": {
+      "eng": "Personal development",
+      "uz": "Shaxsiy o'sish",
+      "ru": "Личное развитие"
+    },
+    "description_ru": "",
+    "description_uz": "",
+    "description_eng": "",
+    "iconType": "pie-chart/filled",
+    "imageUrl": "images/categories/1601460679638-shutterstock_170340656-(2).jpg",
+    "showMain": false
+  },{
+    "_id": {
+      "$oid": "5f1e1d9f1db02e19450d5968"
+    },
+    "title": {
+      "eng": "Photography",
+      "uz": "Fotografiya",
+      "ru": "Фотография"
+    },
+    "description_ru": "",
+    "description_uz": "",
+    "description_eng": "",
+    "iconType": "camera/filled",
+    "imageUrl": "images/categories/1601461059649-394069-photographer-photography-landscape-water-Sun-sunset-camera-(2).jpg",
+    "showMain": false
+  },{
+    "_id": {
+      "$oid": "5f1e1dbb1db02e19450d5973"
+    },
+    "title": {
+      "eng": "Repair and technical support",
+      "uz": "Ta'mirlash va texnik yordam \r\n",
+      "ru": "Ремонт и техническая поддержка"
+    },
+    "description_ru": "",
+    "description_uz": "",
+    "description_eng": "",
+    "iconType": "setting/fileld",
+    "imageUrl": "images/categories/1601452060170-support-sales_2_705x338.jpg",
+    "showMain": true
+  }]
