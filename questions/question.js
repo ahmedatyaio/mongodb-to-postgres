@@ -67,62 +67,62 @@ const main = async () => {
 
               // // Question Texts START
 
-              // //Pro Question text
-              // questionText = {
-              //   id: questionTextCount,
-              //   uz: item.question.uz,
-              //   ru: item.question.ru,
-              //   eng: item.question.eng,
-              //   belongs: 'pro',
-              //   group_id: 0,
-              //   type: 'question',
-              //   multiple: false,
-              //   createdAt: '2020-12-11 01:23:53.941+02',
-              //   updatedAt: '2020-12-11 01:23:53.941+02',
-              //   questionId: questionCount - 1,
-              // };
-              // questionTextCount++;
-              // //console.log(questionText);
-              // questionTextArray.push(questionText);
+              //Pro Question text
+              questionText = {
+                id: questionTextCount,
+                uz: item.question.uz,
+                ru: item.question.ru,
+                 eng: item.question.eng,
+                 belongs: 'pro',
+                 group_id: 0,
+                 type: 'question',
+                 multiple: false,
+                 createdAt: '2020-12-11 01:23:53.941+02',
+                 uptedAt: '2020-12-11 01:23:53.941+02',
+                 questionId: questionCount - 1,
+               };
+               questionTextCount++;
+               //console.log(questionText);
+               questionTextArray.push(questionText);
 
-              // //Client Question text
-              // questionText = {
-              //   id: questionTextCount,
-              //   uz: item.title.uz,
-              //   ru: item.title.ru,
-              //   eng: item.title.eng,
-              //   belongs: 'client',
-              //   group_id: 0,
-              //   type: 'question',
-              //   multiple: false,
-              //   createdAt: '2020-12-11 01:23:53.941+02',
-              //   updatedAt: '2020-12-11 01:23:53.941+02',
-              //   questionId: questionCount - 1,
-              // };
-              // questionTextCount++;
-              // //console.log(questionText);
-              // questionTextArray.push(questionText);
+               //Client Question text
+               questionText = {
+                 id: questionTextCount,
+                 uz: item.title.uz,
+                 ru: item.title.ru,
+                 eng: item.title.eng,
+                 belongs: 'client',
+                 group_id: 0,
+                 type: 'question',
+                 multiple: false,
+                 createdAt: '2020-12-11 01:23:53.941+02',
+                 updatedAt: '2020-12-11 01:23:53.941+02',
+                 questionId: questionCount - 1,
+               };
+               questionTextCount++;
+               //console.log(questionText);
+               questionTextArray.push(questionText);
 
-              // // Choiceses QuestionText
+             // Choiceses QuestionText
 
-              // await item.values.map((value, index) => {
-              //   questionText = {
-              //     id: questionTextCount,
-              //     uz: value.uz,
-              //     ru: value.ru,
-              //     eng: value.eng,
-              //     belongs: 'client',
-              //     group_id: index,
-              //     type: 'choice',
-              //     multiple: item.multiple,
-              //     createdAt: '2020-12-11 01:23:53.941+02',
-              //     updatedAt: '2020-12-11 01:23:53.941+02',
-              //     questionId: questionCount - 1,
-              //   };
-              //   questionTextCount++;
-              //   //console.log(questionText);
-              //   questionTextArray.push(questionText);
-              // });
+             await item.values.map((value, index) => {
+               questionText = {
+                 id: questionTextCount,
+                 uz: value.uz,
+                 ru: value.ru,
+                 eng: value.eng,
+                 belongs: 'client',
+                 group_id: index,
+                 type: 'choice',
+                 multiple: item.multiple,
+                createdAt: '2020-12-11 01:23:53.941+02',
+                 updatedAt: '2020-12-11 01:23:53.941+02',
+                 questionId: questionCount - 1,
+               };
+               questionTextCount++;
+                //console.log(questionText);
+               questionTextArray.push(questionText);
+              });
 
               //Question Text END
             }
@@ -133,9 +133,8 @@ const main = async () => {
       //console.log(questionTextArray)
     })
   ).then(() => {
-    console.log(questions);
     let questionsStringify = JSON.stringify(questions);
-    // let questionsTextStringify = JSON.stringify(questionTextArray);
+    let questionsTextStringify = JSON.stringify(questionTextArray);
     fs.writeFile(
       'pg-questions.json',
       questionsStringify,
@@ -146,15 +145,15 @@ const main = async () => {
       }
     );
 
-    // fs.writeFile(
-    //   'pg-questionsTexts.json',
-    //   questionsTextStringify,
-    //   'utf8',
-    //   function (err) {
-    //     if (err) throw err;
-    //     console.log('complete');
-    //   }
-    // );
+     fs.writeFile(
+       'pg-questionsTexts.json',
+       questionsTextStringify,
+       'utf8',
+       function (err) {
+         if (err) throw err;
+         console.log('complete');
+       }
+     );
   });
 };
 
