@@ -1,0 +1,111 @@
+[{
+  "_id": {
+    "$oid": "5f7aea832f46551d3c1be721"
+  },
+  "rate": 5,
+  "comment": "Juda yaxshi",
+  "user": {
+    "$oid": "5f744ccb51c5f3311ecf76e1"
+  },
+  "pro": {
+    "$oid": "5f29632bae14831922b1d248"
+  },
+  "service": {
+    "$oid": "5f1e1aa11db02e19450d5780"
+  },
+  "createdAt": {
+    "$date": "2020-10-05T09:42:27.459Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-06T08:06:49.135Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f7d7d2afd697f0e14e83645"
+  },
+  "rate": 3.5,
+  "comment": "Zo'r ishlashdi\nadsad",
+  "user": {
+    "$oid": "5f68511051c5f3311ecf750f"
+  },
+  "pro": {
+    "$oid": "5f29632bae14831922b1d248"
+  },
+  "service": {
+    "$oid": "5f1e1aa11db02e19450d5780"
+  },
+  "createdAt": {
+    "$date": "2020-10-07T08:32:42.806Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T10:55:16.555Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8411eaecab6930fcd00e5a"
+  },
+  "rate": 3,
+  "comment": "Test comment",
+  "user": {
+    "$oid": "5f68511051c5f3311ecf750f"
+  },
+  "pro": {
+    "$oid": "5f29632bae14831922b1d248"
+  },
+  "service": {
+    "$oid": "5f6dc11851c5f3311ecf762b"
+  },
+  "createdAt": {
+    "$date": "2020-10-12T08:20:58.994Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-12T08:20:58.994Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f848e6b51c5f3311ecf7a17"
+  },
+  "rate": 4,
+  "comment": "perfect!",
+  "user": {
+    "$oid": "5f2955e2ae14831922b1d244"
+  },
+  "pro": {
+    "$oid": "5f29632bae14831922b1d248"
+  },
+  "service": {
+    "$oid": "5f1e1aa11db02e19450d5780"
+  },
+  "createdAt": {
+    "$date": "2020-10-12T17:12:11.423Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-09T01:01:03.482Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f883c4ae0ebe5240bf2c2c1"
+  },
+  "rate": 4,
+  "comment": "asdasd",
+  "user": {
+    "$oid": "5f744ccb51c5f3311ecf76e1"
+  },
+  "pro": {
+    "$oid": "5f741efb51c5f3311ecf7693"
+  },
+  "service": {
+    "$oid": "5f1e1aa11db02e19450d5780"
+  },
+  "createdAt": {
+    "$date": "2020-10-15T12:10:50.228Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-15T12:10:50.228Z"
+  },
+  "__v": 0
+}]

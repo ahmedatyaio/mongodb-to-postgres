@@ -12,34 +12,38 @@ const findPGPro = async (mongoPro) => {
   const file = await fs.readFile('../pros/pg-pros.json');
   const pgUsers = JSON.parse(file);
 
-  const user = pgUsers.filter(
-    (c) => {
-        if(mongoPro.name && c.name === mongoPro.name) {
-            if(mongoPro.overview.phone && c.overview_phone === mongoPro.overview.phone) {
-                if(mongoPro.description && c.description === mongoPro.description) {
-                    return 
-                }
-            }
-        }
-    }
-      c.name === mongoPro.name &&
-      c.overview_phone === mongoPro.overview.phone &&
-      c.description === mongoPro.description
-  );
+  //   const user = pgUsers.filter((c) => {
+  //     if (mongoPro) {
+  //       if (c.name === mongoPro.name && c.description === mongoPro.description) {
+  //         return c;
+  //       }
+  //     }
+  //     // if (mongoPro && c.name === mongoPro.name) {
+  //     //   if (mongoPro.phone && c.overview_phone === mongoPro.overview.phone) {
+  //     //     if (mongoPro && c.description === mongoPro.description) {
+  //     //       return c;
+  //     //     }
+  //     //   }
+  //     // }
+  //   });
 
-  return user[0];
+  const user = pgUsers.find((c) => {
+    if (mongoPro) {
+      if (c.name === mongoPro.name && c.description === mongoPro.description) {
+        return c;
+      }
+    }
+  });
+
+  return user;
 };
 
-const main = async () => {
-  const file = await fs.readFile('./coins.json');
-  const data = JSON.parse(file);
+const handleFindingPro = (item, i) => {
+  return new Promise(async (resolve, reject) => {
+    const mongoUser = await findMongoPro(item.pro.$oid);
+    const pro = await findPGPro(mongoUser);
 
-  const coins = [];
-  Promise.all(
-    data.map(async (item, i) => {
-      const mongoUser = await findMongoPro(item.pro.$oid);
-      const pro = await findPGPro(mongoUser);
-
+    if (pro) {
       const coin = {
         id: i + 1,
         count: item.count,
@@ -48,9 +52,38 @@ const main = async () => {
         proId: pro.id,
       };
 
-      coins.push(coin);
+      return coin;
+    }
+  });
+};
+
+const main = async () => {
+  const file = await fs.readFile('./coins.json');
+  const data = JSON.parse(file);
+
+  console.log('BEFORE PROMISE ALL');
+
+  const coins = await Promise.all(
+    data.map(async (item, i) => {
+      const mongoUser = await findMongoPro(item.pro.$oid);
+      const pro = await findPGPro(mongoUser);
+
+      if (pro) {
+        const coin = {
+          id: i + 1,
+          count: item.count,
+          createdAt: '2020-12-11 01:23:53.941+02',
+          updatedAt: '2020-12-11 01:23:53.941+02',
+          proId: pro.id,
+        };
+
+        return coin;
+      }
     })
-  ).then(await fs.writeFile('pg-coins.json', JSON.stringify(coins)));
+  );
+
+  console.log(coins);
+  await fs.writeFile('pg-coins.json', JSON.stringify(coins));
 };
 
 main().catch((err) => console.error(err));
